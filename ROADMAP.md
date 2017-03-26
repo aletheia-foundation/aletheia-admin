@@ -10,7 +10,7 @@ General to do things
 
 ## Milestone: Mozilla Tech Speakers
 
-Kade is currently going through the Mozilla Tech Speakers program that will help him become a better evangelist for Aletheia and tech overall
+Kade is currently going through the Mozilla Tech Speakers program that will help him become a better evangelist for Aletheia and opensource tech overall
 
 ## Milestone: Mozilla Open Leadership
 
@@ -24,11 +24,15 @@ Kade hates instagram but has seen it used for effective marketing elsewhere. The
 
 We need to enhance our web presence.
 
+* [Need to point our domain to the website](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/4)
+* [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
+* [Get the blog working](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/6)
+
 ## Milestone: Minimum Viable Product
 
 A client you can upload documents to, search, and download documents from. This is our proof of concept
 
-See the current issues [here](https://github.com/orgs/aletheia-foundation/projects/1).
+* current issues [here](https://github.com/orgs/aletheia-foundation/projects/1).
 
 ## Milestone: Aletheia 2.0
 
