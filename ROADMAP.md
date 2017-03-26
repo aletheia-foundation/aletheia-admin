@@ -4,7 +4,9 @@ _**Publish science for free, access science for free.**_
 
 ## Milestone: Ongoing issues
 
-Now that it's written needs to be updated.
+General to do things
+
+* [Update whitepaper to take into account Peita's advice](https://github.com/aletheia-foundation/whitepaper/issues/6)
 
 ## Milestone: Mozilla Tech Speakers
 
