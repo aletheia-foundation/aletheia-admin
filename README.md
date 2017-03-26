@@ -26,20 +26,16 @@ Kade was accepted into Mozilla's Open Leadership program which supports the deve
 
 Anyone and everyone. Aletheia is currently under construction and we are seeking developers and designers. But just as software doesn’t write itself, communities don’t build themselves either, as we grow there will be further scope for contribution so check back regularly.
 
-## Get involved
-
-Skim the latest version of the [whitepaper](https://github.com/aletheia-foundation/whitepaper) (It's a few pages long so skiming is OK), check out of [Contributor Guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md), our Code of Conduct and our Roadmap. If this is looking like a project you want to participate in, contact us on the below details.
-
 ## Contact us
 
 You can email us at contact@aletheia-foundation.io If you want to contact one of the maintainers individually kademorton@protonmail.com / roo2@protonmail.com 
 
 ## Find out more and get involved
 
-* [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you fully formed idea of the vision and goals of Aletheia
-* [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p) - the condensed version of our vision and goals
+* [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you fully formed idea of the vision and goals of Aletheia.
+* [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p) - the condensed version of our vision and goals.
 * [Code of Conduct](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md) - the Code of Conduct we expect all Aletheians, be they contributors or community members, to abide by.
-* [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md) - if you're looking to contribute here are some guidelines to get you started
+* [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md) - if you're looking to contribute here are some guidelines to get you started.
 * [Roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md) - want to see where we're at in the project, or looking for open issues to contribute to? Look no futher.
 
 ## Thank you
