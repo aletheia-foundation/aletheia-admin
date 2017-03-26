@@ -32,11 +32,13 @@ We need to enhance our web presence.
 
 A client you can upload documents to, search, and download documents from. This is our proof of concept
 
-* current issues [here](https://github.com/orgs/aletheia-foundation/projects/1).
+* current issues in our MVP project [here](https://github.com/orgs/aletheia-foundation/projects/1).
 
 ## Milestone: Aletheia 2.0
 
 Adding features to the client that will give it a point of difference from other open access scientific journals
+
+* post mvp project coming soon.
 
 ## Completed Milestones
 
