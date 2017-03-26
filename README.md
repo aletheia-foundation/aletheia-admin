@@ -39,7 +39,7 @@ You can email us at contact@aletheia-foundation.io If you want to contact one of
 * [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper)
 * [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p)
 * [Code of Conduct](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md)
-* Roadmap
+* [Roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md)
 
 ## Thank you
 
