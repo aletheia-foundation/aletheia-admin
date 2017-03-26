@@ -2,6 +2,10 @@
 
 _**Publish science for free, access science for free.**_
 
+## Milestone: Ongoing issues
+
+Now that it's written needs to be updated.
+
 ## Milestone: Mozilla Tech Speakers
 
 Kade is currently going through the Mozilla Tech Speakers program that will help him become a better evangelist for Aletheia and tech overall
@@ -22,14 +26,17 @@ We need to enhance our web presence.
 
 A client you can upload documents to, search, and download documents from. This is our proof of concept
 
+See the current issues [here](https://github.com/orgs/aletheia-foundation/projects/1).
+
 ## Milestone: Aletheia 2.0
 
 Adding features to the client that will give it a point of difference from other open access scientific journals
 
 ## Completed Milestones
 
+* [Whitepaper](https://github.com/aletheia-foundation/whitepaper) written
 * Email created and directed to our domain
-* Facebook account setup
-* Twitter account setup
+* [Facebook](https://www.facebook.com/aletheiaf/) account setup
+* [Twitter](https://twitter.com/aletheia_f) account setup
 
 
