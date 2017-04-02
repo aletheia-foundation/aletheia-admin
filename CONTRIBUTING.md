@@ -8,12 +8,10 @@ Thank you for wanting to contribute!
 
 Aletheia is not just software, it is a community, so contributing takes many forms. The first question you need to ask is:
 
-* Do you want to contribute to Aletheia by contributing to the software in some way?
-* Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)?
+* Do you want to contribute to Aletheia by contributing to the software in some way? If so, please look over the rest of this document.
+* Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email contact@aletheia-foundation.io and contributions will be handled on a case by case basis. There will be clearer paths for non-software contribution once we have Aletheia up and running.
 
-If you want to contribute through other means, please email contact@aletheia-foundation.io and contributions that aren't directly to the software will be handled on a case by case basis. There will be clearer paths for non-software contribution once we have Aletheia up and running.
-
-If you want to contribute to Aletheia by contributing to the software in some way, please read on. The below consist of guidelines, not hard and fast rules that must be adhered to, we ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
+The below guidelines for contributing to the software of Aletheia are just that, guidelines, not hard and fast rules that must be adhered to. We ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
 
 ## What should I know before I get started?
 
