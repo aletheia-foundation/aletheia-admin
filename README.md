@@ -1,4 +1,4 @@
-![alt tag](https://cloud.githubusercontent.com/assets/24201238/24583943/d964f9ba-179e-11e7-99da-e029edfe8d5f.png)
+![alt tag](https://cloud.githubusercontent.com/assets/24201238/24583976/ced4c43e-179f-11e7-9c40-c0988c346f55.png)
 
 _**Publish science for free, access science for free.**_
 
