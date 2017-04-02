@@ -10,7 +10,7 @@ Thank you for checking out Aletheia. To find out what we are about and how you c
 
 ### The problem
 
-A large percentage of scientific articles lie behind paywalls. That is to say, a large percentage of humanity’s collective knowledge is only accessible by those with financial means. The companies that operate these paywalls claim they only exist to cover their operating costs that allow scinece to be published, but the truth is these companies operate with a large profit margin. The fact that scientific research is not freely available to all stifiles innovation and humanity loses out overall.
+A large percentage of scientific articles lie behind paywalls. That is to say, a large percentage of humanity’s collective knowledge is only accessible by those with financial means. The companies that operate these paywalls claim they only exist to cover their operating costs that allow science to be published, but the truth is these companies operate with a large profit margin. The fact that scientific research is not freely available to all stifles innovation and humanity loses out overall.
 
 #### The solution
 
@@ -36,7 +36,7 @@ You can email us at contact@aletheia-foundation.io If you want to contact one of
 * [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p) - the condensed version of our vision and goals.
 * [Code of Conduct](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md) - the Code of Conduct we expect all Aletheians, be they contributors or community members, to abide by.
 * [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md) - if you're looking to contribute here are some guidelines to get you started.
-* [Roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md) - want to see where we're at in the project, or looking for open issues to contribute to? Look no futher.
+* [Roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md) - want to see where we're at in the project, or looking for open issues to contribute to? Look no further.
 
 ## Thank you
 
