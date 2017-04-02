@@ -1,4 +1,4 @@
-# Aletheia
+![alt tag](https://avatars2.githubusercontent.com/u/24520654?v=3&s=200)
 
 _**Publish science for free, access science for free.**_
 
