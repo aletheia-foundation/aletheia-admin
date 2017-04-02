@@ -2,11 +2,11 @@
 
 _**Publish science for free, access science for free.**_
 
-# Contrinbuting to Aletheia
+# Contributing to Aletheia
 
 Thank you for wanting to contribute!
 
-The below consist of guidelines, not hard and fast rules that must be ahered to, we ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
+The below consist of guidelines, not hard and fast rules that must be adhered to, we ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
 
 ## What should I know before I get started?
 
@@ -39,7 +39,7 @@ To make your bug report as useful to others as possible, please consider the bel
 
 * Use a clear and descriptive title for the issue to identify the problem.
 * Describe the exact steps which reproduce the problem in as many details as possible. 
-* Describe the behaviour you observed after following the steps and point out what exactly is the problem with that behavior.
+* Describe the behaviour you observed after following the steps and point out what exactly is the problem with that behaviour.
 * Explain what behaviour you expected to see instead and why.
 * Include screenshots where possible. 
 * If you're reporting that Alethia crashed, include a crash report with a stack trace from the operating system if possible. Include the crash report in the issue in a code block, a file attachment, or put it in a gist and provide link to that gist.
@@ -69,7 +69,7 @@ It would be great if our software did exactly what we wanted, and it can, that's
 
 * **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may be planning to work on something similar.
 * **Read** the latest version of the [whitepaper](https://github.com/aletheia-foundation/whitepaper) first. This will align you with the project vision. 
-* **Email** contact@aletheia-foundation.io to dicuss your enhancement before you start. Aletheia has been designed to overcome problems in very particular ways, and we need to ensure the the enhancement meshes with the rest of Aletheia and isn't something already being worked on. We don't want your time and effort to go to waste. Down the track it is envisaged that the go/no go call for an enhancement will be made by the community in keeping with Aletheia's principles of decentralisation.
+* **Email** contact@aletheia-foundation.io to discuss your enhancement before you start. Aletheia has been designed to overcome problems in very particular ways, and we need to ensure the the enhancement meshes with the rest of Aletheia and isn't something already being worked on. We don't want your time and effort to go to waste. Down the track it is envisaged that the go/no go call for an enhancement will be made by the community in keeping with Aletheia's principles of decentralisation.
 
 ### Suggesting an enhancement
 
@@ -85,7 +85,7 @@ To make your enhancement suggestion as useful to others as possible, please cons
 * Use a clear and descriptive title for the issue to identify the suggestion.
 * Provide a step-by-step description of the suggested enhancement in as many details as possible.
 * Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples, as Markdown code blocks if possible.
-* Describe the current behavior and explain which behavior you expected to see instead and why.
+* Describe the current behaviour and explain which behaviour you expected to see instead and why.
 * Include screenshots which help you demonstrate the steps or point out the part of Aletheia which the suggestion is related to. 
 * Explain why this enhancement would be useful to most Aletheia users.
 * List some other applications where this enhancement exists.
