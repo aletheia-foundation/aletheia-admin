@@ -19,9 +19,11 @@ A large percentage of scientific articles lie behind paywalls. That is to say, a
 
 We open science up. These paywall companies host scientific research and organise the peer review process, there's no reason why the community can't do that. In creating Aletheia, we are building a publishing platform that handles the peer review process for scientific articles that also doubles as a search engine, interating across a blockchain containing the records of articles published through Aletheia. Anyone can publish through us and have their work peer reviewed, for free, and anyone can access the entire Aletheia database, for free. 
 
+If you want a good primer to the problems in academic publishing and how technology can be applied to them, please set aside two hours of your time and watch [_The Internet's Own Boy: The Story of Aaron Swartz_](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
+
 ## Who are we? :sunglasses: :sunglasses:
 
-Aletheia was founded by two people, Kade and Roo. Kade sat down one day to watch _The Internet's Own Boy: The Story of Aaron Swartz_ and got really mad. He decided he was going to do something about the problems with academic publishing outlined in the film. He came up with the idea for a publishing platform that was run by a community, free for anyone to use and access. He spoke about his idea to Roo, the two decided to make the idea a reality, and how you're reading the README file in their GitHub.
+Aletheia was founded by two people, Kade and Roo. Kade sat down one day and decided he was going to do something about the problems with academic publishing outlined in the documentary _The Internet's Own Boy_. He came up with the idea for a publishing platform that was run by a community, free for anyone to use and access. He spoke about his idea to Roo, the two decided to make the idea a reality, and how you're reading the README file in their GitHub. Action can be that simple, and we invite you to join us.
 
 Kade was accepted into Mozilla's Open Leadership program which supports the development of Aletheia.
 
