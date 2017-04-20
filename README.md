@@ -19,7 +19,7 @@ A large percentage of scientific articles lie behind paywalls. That is to say, a
 
 We open science up. These paywall companies host scientific research and organise the peer review process, there's no reason why the community can't do that. In creating Aletheia, we are building a publishing platform that handles the peer review process for scientific articles that also doubles as a search engine, interating across a blockchain containing the records of articles published through Aletheia. Anyone can publish through us and have their work peer reviewed, for free, and anyone can access the entire Aletheia database, for free. 
 
-If you want a good primer to the problems in academic publishing and how technology can be applied to them, please set aside two hours of your time and watch [_The Internet's Own Boy: The Story of Aaron Swartz_](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
+If you want a good primer to the problems surrounding academic publishing and how technology can be applied to them, please set aside two hours of your time and watch [_The Internet's Own Boy: The Story of Aaron Swartz_](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
 
 ## Who are we? :sunglasses: :sunglasses:
 
