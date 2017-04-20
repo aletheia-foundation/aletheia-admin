@@ -47,7 +47,7 @@ As said above, do not feel that you are limited to these roles. The above are ju
 
 ## Contact us  :email:
 
-You can email us at contact@aletheia-foundation.io If you want to contact one of the maintainers individually kademorton@protonmail.com / roo2@protonmail.com 
+You can email us at contact@aletheia-foundation.io If you want to contact one of the maintainers individually you can reach us at kademorton@protonmail.com / roo2@protonmail.com 
 
 ## Find out more and get involved  :bowtie:
 
