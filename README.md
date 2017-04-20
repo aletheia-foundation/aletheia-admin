@@ -31,17 +31,17 @@ Kade was accepted into Mozilla's Open Leadership program which supports the deve
 Anyone and everyone to participate! Aletheia is currently under construction and we are seeking developers and designers. But just as software doesn’t write itself, communities don’t build themselves either, we are open to any form of contribution to our community.
 
 If you do have some design or technical skills, we are especially looking for:
-Web developers
-Front end designers
-Anyone familiar with decentralised technology, blockchain, solidity, anything like that
-security engineers
+* Web developers
+* Front end designers
+* Anyone familiar with decentralised technology, blockchain, solidity, anything like that
+* Security engineers
 
 If you're more of a people person, we are looking for:
-Social media managers
-Volunteer coordinators
-Media liaisons
-Grant proposal writers
-Technical writers
+* Social media managers
+* Volunteer coordinators
+* Media liaisons
+* Grant proposal writers
+* Technical writers
 
 As said above, do not feel that you are limited to these roles. The above are just want we've found would be useful, but you don't know what you don't know. We are open to any form of contribution to our community.
 
