@@ -47,4 +47,6 @@ Adding features to the client that will give it a point of difference from other
 * [Facebook](https://www.facebook.com/aletheiaf/) account setup
 * [Twitter](https://twitter.com/aletheia_f) account setup
 
+## Think you could help with any of these?
 
+Check out our ...
