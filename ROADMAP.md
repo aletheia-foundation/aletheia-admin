@@ -10,7 +10,6 @@ General to do things
 * [Turn the informal Mondays into an official meetup](https://github.com/aletheia-foundation/admin/issues/11)
 * [Make a Slack channel](https://github.com/aletheia-foundation/admin/issues/)
 * [Sort out guidelines for pull requests](https://github.com/aletheia-foundation/admin/issues/7)
-* [Sort out guidelines for pull requests](Sort out guidelines for pull requests)
 * [Style guide for new contributors](https://github.com/aletheia-foundation/admin/issues/4)
 * [Our main technical challenges](https://github.com/aletheia-foundation/aletheia-app/issues)
 * [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
