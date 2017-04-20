@@ -25,7 +25,8 @@ Kade was accepted into Mozilla's Open Leadership program which supports the deve
 
 ## What do we need?
 
-Anyone and everyone. Aletheia is currently under construction and we are seeking developers and designers. But just as software doesn’t write itself, communities don’t build themselves either, as we grow there will be further scope for contribution so check back regularly.
+ :running: :couple: :family: :two_men_holding_hands: :two_women_holding_hands: :dancer: :dancers: :ok_woman: :boy: :girl: :woman: :man: :baby: :older_woman: :older_man: :man_with_turban: :construction_worker: :cop: :angel: :princess: :dragon_face: :octocat:
+Anyone and everyone! Aletheia is currently under construction and we are seeking developers and designers. But just as software doesn’t write itself, communities don’t build themselves either, we are open to any form of participation.
 
 ## Contact us  :email:
 
