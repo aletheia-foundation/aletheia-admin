@@ -9,11 +9,13 @@ Thank you for checking out Aletheia. To find out what we are about and how you c
 
 ## What are we doing?
 
-### The problem  :pensive:
+In short, we are building a community to solve a problem.
+
+## The problem  :pensive:
 
 A large percentage of scientific articles lie behind paywalls. That is to say, a large percentage of humanity’s collective knowledge is only accessible by those with financial means. The companies that operate these paywalls claim they only exist to cover their operating costs that allow science to be published, but the truth is these companies operate with a large profit margin. The fact that scientific research is not freely available to all stifles innovation and humanity loses out overall.
 
-#### The solution :heart_eyes:
+## The solution :heart_eyes:
 
 We open science up. These paywall companies host scientific research and organise the peer review process, there's no reason why the community can't do that. In creating Aletheia, we are building a publishing platform that handles the peer review process for scientific articles that also doubles as a search engine, interating across a blockchain containing the records of articles published through Aletheia. Anyone can publish through us and have their work peer reviewed, for free, and anyone can access the entire Aletheia database, for free. 
 
@@ -25,7 +27,7 @@ Kade was accepted into Mozilla's Open Leadership program which supports the deve
 
 ## What do we need?
 
- :running: :couple: :family: :two_men_holding_hands: :two_women_holding_hands: :dancer: :dancers: :ok_woman: :boy: :girl: :woman: :man: :baby: :older_woman: :older_man: :man_with_turban: :construction_worker: :cop: :angel: :princess: :dragon_face: :octocat:
+:couple: :family: :two_men_holding_hands: :two_women_holding_hands: :dancer: :dancers: :ok_woman: :boy: :girl: :woman: :man: :baby: :older_woman: :older_man: :man_with_turban: :construction_worker: :cop: :angel: :princess: :dragon_face:
 Anyone and everyone! Aletheia is currently under construction and we are seeking developers and designers. But just as software doesn’t write itself, communities don’t build themselves either, we are open to any form of participation.
 
 ## Contact us  :email:
