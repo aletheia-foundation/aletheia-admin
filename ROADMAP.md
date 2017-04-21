@@ -58,4 +58,4 @@ Adding features to the client that will give it a point of difference from other
 
 ## Think you could help with any of these?
 
-Check out our ...
+Check out our [contributing guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTING.md).
