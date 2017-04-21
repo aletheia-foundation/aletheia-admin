@@ -74,6 +74,12 @@ Aletheia was founded by two people, Kade and Roo. Kade sat down one day and deci
 
 You can email us at contact@aletheia-foundation.io If you want to contact one of the founders individually you can reach us at kademorton@protonmail.com / roo2@protonmail.com 
 
+## I want to engage with Aletheia on social media
+
+You can find us on these platforms:
+* [Twitter](https://twitter.com/aletheia_f)
+* [Facebook](https://www.facebook.com/aletheiaf)
+
 ## Thank you
 
 Seriously, :tada::confetti_ball::tada: thank you! :tada::confetti_ball::tada: It means a lot to us that you read this far! If you want go a step further and help to build a better world through Aletheia, feel free to join us.
