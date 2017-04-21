@@ -12,6 +12,8 @@ Personas are a thought exercise in thinking about potential contributors and use
 
 Saanvi Chavan is studying a Master of Arts in Ancient Indian History, Culture and Archaeology at Deccan College Post-Graduate and Research Institute in Pune, India. Saanvi loves the scooter her parents saved up and bought her when she started studying and friends often ask her for lifts. When not studying she enjoys spending time at ABC Farms. Saanvi heard one of her lecturers talk about research a colleague was set to publish that's pertinent to her masters course, and after getting the name of the journal she checked with the university library. They said they don't carry a subscription to that journal. Saanvi searched online and found to purchase the article from the journal directly costs roughly $50 US, she can't afford it herself and since her parents are paying her tuition fees she doesn't want to burden them by asking for money.
 
+## Klaus Müller
+
 ![professor](http://maxpixel.freegreatpicture.com/static/photo/1x/Portrait-Beard-Black-And-White-Man-Lecturer-2068043.jpg)
 
 contributor
