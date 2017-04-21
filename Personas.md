@@ -9,7 +9,9 @@ Personas are a thought exercise in thinking about potential contributors and use
 This is the persona exercise
 
 End user student
+
 ![student](https://upload.wikimedia.org/wikipedia/commons/e/ea/Indian_Student_UOA_0478.jpg)
+
 This is 
 
 End User professor
