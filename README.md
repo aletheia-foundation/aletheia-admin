@@ -15,25 +15,25 @@ So, Aletheia is software. But software without people is nothing. To comprehensi
 
 ## OK, so why does this project exist?
 
-A large percentage of scientific papers published sit behind paywalls. That is to say, a huge segment of the world's population is cut off from scientific knowledge. Don't take our word for it. [Here](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a), [here](https://en.wikipedia.org/wiki/Elsevier#Criticism_and_controversies), [here](https://arstechnica.com/science/2008/11/elsevier-beyond-the-pale-of-scientific-respectability/) and [here](https://www.theguardian.com/science/2012/feb/02/academics-boycott-publisher-elsevier) are some links to get you started reading about this problem. Paywalls entrench economic privilage, lower global standards and stile global innovation. Humanity as an entire race loses out, that means you. You lose, no matter who you are.  
+A large percentage of scientific papers published sit behind paywalls. That is to say, a huge segment of the world's population is cut off from scientific knowledge. Don't take our word for it. [Here](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a), [here](https://en.wikipedia.org/wiki/Elsevier#Criticism_and_controversies), [here](https://arstechnica.com/science/2008/11/elsevier-beyond-the-pale-of-scientific-respectability/) and [here](https://www.theguardian.com/science/2012/feb/02/academics-boycott-publisher-elsevier) are some links to get you started reading about this problem. Paywalls entrench economic privilege, lower global standards and stile global innovation. Humanity as an entire race loses out, that means you. You lose, no matter who you are.  
 
 If you want a good primer to the problems surrounding academic publishing and how technology can be applied to them, please set aside two hours of your time and watch [_The Internet's Own Boy: The Story of Aaron Swartz_](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
 
 ## That's a terrible problem! How do we solve it?
 
-We open science up. For profit academic publishsers host scientific research and organise the peer review process, there's no reason why a community of people can't do that. In creating Aletheia, we are building a publishing platform that handles the scientific peer review process for scientific articles that also doubles as a search engine for accessing scientific papers. Anyone can publish through us, have their work peer reviewed, and anyone can access the entire Aletheia database, all for free.
+We open science up. For-profit academic publishers host scientific research and organise the peer review process, there's no reason why a community of people can't do that. In creating Aletheia, we are building a publishing platform that handles the scientific peer review process for scientific articles that also doubles as a search engine for accessing scientific papers. Anyone can publish through us, have their work peer reviewed, and anyone can access the entire Aletheia database, all for free.
 
 We have the ability to create such software and we have the ability to organise a community around it, there is no reason we cannot build the world we want.
 
 ## So we get science to the people. How will this change things?
 
-The community around Aletheia share a common vision, to change the world. That sounds very lofty and vague, but this vision is very real and very achieveable. For the founders of Aletheia, changing the world means giving everyone with an internet connection access to humanity's collective knowledge. This will do two things. 
+The community around Aletheia share a common vision, to change the world. That sounds very lofty and vague, but this vision is very real and very achievable. For the founders of Aletheia, changing the world means giving everyone with an internet connection access to humanity's collective knowledge. This will do two things. 
 
 1. If schools and universities don't have to pay [exorbitant fees](http://gantercourses.net/wp-content/uploads/2013/11/Faculty-Advisory-Council-Memorandum-on-Journal-Pricing-%C2%A7-THE-HARVARD-LIBRARY.pdf) for access to a narrow range research papers and instead have a wide range of papers available for free, students have more material and the subscription funds can go back to teaching. [Education is a large factor in social mobility](https://en.wikipedia.org/wiki/Social_mobility#Influence_of_intelligence_and_education). 
 
 2. If we have more people reading more scientific research, statistically we are going to get more people that put the dots together and discover scientific breakthroughs. 
 
-A faster rising middle class all across the world coupled with more scientific breakthroughs leads us to a world we can scarcely imagine. The end of poverty, the halting of climate change, infinite renewable energy, unlocking the aging process, all this is possible. The future lies before us, the founder's vision is let's get there, faster.
+A faster rising middle class across the world coupled with more scientific breakthroughs leads us to a world we can scarcely imagine. The end of poverty, the halting of climate change, infinite renewable energy, unlocking the aging process, all this is possible. The future lies before us, the founder's vision is let's get there, faster.
 
 Changing the world for you could be as simple as [preventing a loved one dying of cancer because someone had access to information they would not otherwise have had and invented an early detection method](https://en.wikipedia.org/wiki/Jack_Andraka#Pancreatic_cancer_sensor), or it could be even bigger than the founder's vision. That's the beauty of it, the vision is yours, yours to share as part of a community looking to turn that personal vision into reality.
 
@@ -57,7 +57,7 @@ If you're more of a people person, we are looking for:
 
 However, do not feel that you are limited to these roles. The above are just what we've found would be useful, we are open to any form of contribution.
 
-## So I can be a part of this communuity. How do I start?
+## So I can be a part of this community. How do I start?
 
 Below are some useful resources:
 * [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you fully formed idea of the vision and goals of Aletheia.
