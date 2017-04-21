@@ -9,7 +9,7 @@ Thank you for checking out Aletheia.
 
 ## First thing is first. What is Aletheia?
 
-In short, Aletheia software for getting scientific research published and in the hands of everyone, for free. If you want a little more detail, Aletheia is a decentralised and distributed database used as a free publishing platform for scientific research.
+In short, Aletheia is software for getting scientific research published and in the hands of everyone, for free. If you want a little more detail, Aletheia is a decentralised and distributed database used as a free publishing platform for scientific research.
 
 So, Aletheia is software. But software without people is nothing. To comprehensively answer the question what is Aletheia, Aletheia is software surrounded by a community of people who want to change the world through open access to scientific knowledge. 
 
