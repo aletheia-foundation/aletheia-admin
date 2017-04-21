@@ -35,6 +35,10 @@ We need to enhance our web presence.
 * [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
 * [Get the blog working](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/6)
 
+## Milestone: MozFest
+
+Kade will apply to run a presentation at MozFest, at very least he will be at MozFest to help out anyway so he can talk to people about Aletheia.
+
 ## Milestone: Minimum Viable Product
 
 A client you can upload documents to, search, and download documents from. This is our proof of concept
