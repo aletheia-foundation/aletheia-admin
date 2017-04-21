@@ -79,6 +79,7 @@ You can reach out to us on the below:
 
 If you want to reach out to one of the founders individually:
 * kademorton@protonmail.com
+* [Kade on Twitter](https://twitter.com/cypath) 
 * roo2@protonmail.com 
 
 ## Thank you
