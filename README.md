@@ -70,15 +70,16 @@ Below are some useful resources:
 
 Aletheia was founded by two people, Kade and Roo. Kade sat down one day and decided he was going to do something about the problems with academic publishing outlined in the documentary _The Internet's Own Boy_. He came up with the idea for a publishing platform that was run by a community, free for anyone to use and access. He spoke about his idea to Roo, the two decided to make the idea a reality, and how you're reading the README file in their GitHub. Action can be that simple, and we invite you to join us.
 
-## I want to contact Aletheia :email:
+## Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?
 
-You can email us at contact@aletheia-foundation.io If you want to contact one of the founders individually you can reach us at kademorton@protonmail.com / roo2@protonmail.com 
-
-## I want to engage with Aletheia on social media
-
-You can find us on these platforms:
+You can reach out to us on the below:
+* contact@aletheia-foundation.io
 * [Twitter](https://twitter.com/aletheia_f)
 * [Facebook](https://www.facebook.com/aletheiaf)
+
+If you want to reach out to one of the founders individually:
+* kademorton@protonmail.com
+* roo2@protonmail.com 
 
 ## Thank you
 
