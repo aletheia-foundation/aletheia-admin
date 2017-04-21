@@ -7,29 +7,25 @@ _**Publish science for free, access science for free.**_
 First up, :tada::confetti_ball::tada: welcome! :tada::confetti_ball::tada:
 Thank you for checking out Aletheia. 
 
-## What is Aletheia?
+## First thing is first. What is Aletheia?
 
 In short, Aletheia software for getting scientific research published and in the hands of everyone, for free. If you want a little more detail, Aletheia is a decentralised and distributed database used as a free publishing platform for scientific research.
 
 So, Aletheia is software. But software without people is nothing. To comprehensively answer the question what is Aletheia, Aletheia is software surrounded by a community of people who want to change the world through open access to scientific knowledge. 
 
-## Why does the world need Aletheia?
+## OK, so why does this project exist?
 
-A large percentage of scientific papers published globally sit behind paywalls. That is to say, a huge segment of the world's population is cut off from scientific knowledge. Don't take our word for it. [Here](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a), [here](https://en.wikipedia.org/wiki/Elsevier#Criticism_and_controversies), [here](https://arstechnica.com/science/2008/11/elsevier-beyond-the-pale-of-scientific-respectability/) and [here](https://www.theguardian.com/science/2012/feb/02/academics-boycott-publisher-elsevier) are some links to get you started reading about this problem. Paywalls entrench economic privilage, lower global standards and stile global innovation. Humanity as an entire race loses out, that means you. You lose, no matter who you are.  
+A large percentage of scientific papers published sit behind paywalls. That is to say, a huge segment of the world's population is cut off from scientific knowledge. Don't take our word for it. [Here](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a), [here](https://en.wikipedia.org/wiki/Elsevier#Criticism_and_controversies), [here](https://arstechnica.com/science/2008/11/elsevier-beyond-the-pale-of-scientific-respectability/) and [here](https://www.theguardian.com/science/2012/feb/02/academics-boycott-publisher-elsevier) are some links to get you started reading about this problem. Paywalls entrench economic privilage, lower global standards and stile global innovation. Humanity as an entire race loses out, that means you. You lose, no matter who you are.  
 
 If you want a good primer to the problems surrounding academic publishing and how technology can be applied to them, please set aside two hours of your time and watch [_The Internet's Own Boy: The Story of Aaron Swartz_](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
 
-## That's a terrible problem. Can we solve it?
+## That's a terrible problem! How do we solve it?
 
-Yes! We can open science up. For profit academic publishsers host scientific research and organise the peer review process, there's no reason why a community of people can't do that. In creating Aletheia, we are building a publishing platform that handles the scientific peer review process for scientific articles that also doubles as a search engine for accessing scientific papers. Anyone can publish through us, have their work peer reviewed, and anyone can access the entire Aletheia database, all for free.
+We open science up. For profit academic publishsers host scientific research and organise the peer review process, there's no reason why a community of people can't do that. In creating Aletheia, we are building a publishing platform that handles the scientific peer review process for scientific articles that also doubles as a search engine for accessing scientific papers. Anyone can publish through us, have their work peer reviewed, and anyone can access the entire Aletheia database, all for free.
 
 We have the ability to create such software and we have the ability to organise a community around it, there is no reason we cannot build the world we want.
 
-## This all sounds interesting. Who founded Aletheia? :sunglasses: :sunglasses:
-
-Aletheia was founded by two people, Kade and Roo. Kade sat down one day and decided he was going to do something about the problems with academic publishing outlined in the documentary _The Internet's Own Boy_. He came up with the idea for a publishing platform that was run by a community, free for anyone to use and access. He spoke about his idea to Roo, the two decided to make the idea a reality, and how you're reading the README file in their GitHub. Action can be that simple, and we invite you to join us.
-
-## The vision for Aletheia
+## So we get science to the people. How will this change things?
 
 The community around Aletheia share a common vision, to change the world. That sounds very lofty and vague, but this vision is very real and very achieveable. For the founders of Aletheia, changing the world means giving everyone with an internet connection access to humanity's collective knowledge. This will do two things. 
 
@@ -41,10 +37,10 @@ A faster rising middle class all across the world coupled with more scientific b
 
 Changing the world for you could be as simple as [preventing a loved one dying of cancer because someone had access to information they would not otherwise have had and invented an early detection method](https://en.wikipedia.org/wiki/Jack_Andraka#Pancreatic_cancer_sensor), or it could be even bigger than the founder's vision. That's the beauty of it, the vision is yours, yours to share as part of a community looking to turn that personal vision into reality.
 
-## This all sounds amazing. How do I join the community?
+## This all sounds amazing! Can I join?
 
 :couple: :family: :two_men_holding_hands: :two_women_holding_hands: :dancer: :dancers: :ok_woman: :boy: :girl: :woman: :man: :baby: :older_woman: :older_man: :man_with_turban: :construction_worker: :cop: :angel: :princess: :dragon_face:
-Anyone and everyone to participate! Aletheia is currently under construction and we are seeking developers and designers to get the platform up on its feet. But just as software doesn’t write itself, communities don’t build themselves either, we are open to any form of contribution to our community.
+Yes! Anyone and everyone to participate. Aletheia is currently under construction and we are seeking developers and designers to get the platform up on its feet and community organisers to coordinate efforts. 
 
 If you do have some design or technical skills, we are especially looking for:
 * Web developers
@@ -61,20 +57,23 @@ If you're more of a people person, we are looking for:
 
 However, do not feel that you are limited to these roles. The above are just what we've found would be useful, we are open to any form of contribution.
 
-## So I can join. How do I get involved? :bowtie:
+## So I can be a part of this communuity. How do I start?
 
+Below are some useful resources:
 * [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you fully formed idea of the vision and goals of Aletheia.
 * [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p) - the condensed version of our vision and goals.
 * [Code of Conduct](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md) - the Code of Conduct we expect all Aletheians to abide by.
 * [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md) - if you're looking to contribute here are some guidelines to get you started.
 * [Roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md) - want to see where we're at in the project, or looking for open issues to contribute to? Look no further.
 
-## Contact us  :email:
+## Who will I be interacting with once I join?
+
+Aletheia was founded by two people, Kade and Roo. Kade sat down one day and decided he was going to do something about the problems with academic publishing outlined in the documentary _The Internet's Own Boy_. He came up with the idea for a publishing platform that was run by a community, free for anyone to use and access. He spoke about his idea to Roo, the two decided to make the idea a reality, and how you're reading the README file in their GitHub. Action can be that simple, and we invite you to join us.
+
+## I want to contact Aletheia :email:
 
 You can email us at contact@aletheia-foundation.io If you want to contact one of the founders individually you can reach us at kademorton@protonmail.com / roo2@protonmail.com 
 
 ## Thank you
 
-Seriously, :tada::confetti_ball::tada: thank you! :tada::confetti_ball::tada: It means a lot to us that you read this far!
-
-Aletheia cannot exist without a community so a sincere thank you for taking the time to look at our project. If you want to build a better world feel free to join us.
+Seriously, :tada::confetti_ball::tada: thank you! :tada::confetti_ball::tada: It means a lot to us that you read this far! If you want go a step further and help to build a better world through Aletheia, feel free to join us.
