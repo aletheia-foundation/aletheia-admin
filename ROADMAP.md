@@ -27,6 +27,10 @@ Kade is currently going through the Mozilla Open Leadership program to teach him
 
 Kade hates instagram but has seen it used for effective marketing elsewhere. The goal is contributors can send in photos of them working on Aletheia, being part of the community, or if they are researchers they can send in photos out in the field or in the lab.
 
+## Milestone: [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/)
+
+Kade is working on getting the GitHub repo up to scratch for the Global Sprint and our first wave of potential contributors 
+
 ## Milestone: Website
 
 We need to enhance our web presence.
