@@ -2,7 +2,7 @@
 
 _**Publish science for free, access science for free.**_
 
-:tada::confetti_ball::tada: welcome! :tada::confetti_ball::tada:
+:tada::confetti_ball::tada: Welcome! :tada::confetti_ball::tada:
 Thank you for checking out Aletheia. 
 
 ## First thing is first. What is Aletheia?
