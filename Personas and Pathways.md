@@ -18,12 +18,12 @@ Saanvi Chavan is studying a Master of Arts in Ancient Indian History, Culture an
 
 ### Pathway
 
-* Discovery
-* First Contact
-* Participation
-* Sustained Participation
-* Networked Participation
-* Leadership
+* Discovery - Saanvi's Google search for the article she was looking for returns the Aletheia page.
+* First Contact - She downloads the client and sees there is are community functions for voting on Aletheia's content.
+* Participation - Saanvi parcipates in votes 
+* Sustained Participation - She starts telling everyone in her study group about Aletheia and how anyone can paricipate in the community.
+* Networked Participation - Saanvi encourages some of her lecturers to use Aletheia for peer reviewing submitted content
+* Leadership - She runs Aletheia community events at her college around evangelising the platform, onboarding people into the Aletheia community to participate in votes and runs content generation sessions where people looking for scientific research not under copyright and submit it to Aletheia.
 
 ## Klaus Müller
 
