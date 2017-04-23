@@ -18,9 +18,11 @@ Saanvi Chavan is studying a Master of Arts in Ancient Indian History, Culture an
 
 Klaus Müller is a lecturer at Justus-liebig-Universität Gießen, teaching as part of the school of Mathematics and Computer Science, Physics and Geography. He has a wife and three kids, tells terrible dad jokes and constantly embarisses his children at parent teacher conferences. His family don't understand his fascination with computers and he spends a great deal of time contributing to opensource projects. Klaus publishes his research at great cost and sees open access journals as inferior quality and anything that doesn't have a cost attached just isn't right. He tells himself the reason he has to pay great sums of money to be published is science is expensive and must be maintained, he believes Sci-Hub and other websites that pirate scientific research are killing academia. To Klaus, blockchain is a fad, it has not proved itself yet and anything built on it offering scientific research for free will go by the wayside once people wisen up.
 
-contributor
+## Jean Elokobi
 
-contributor
+![contributor1](http://www.publicdomainpictures.net/pictures/200000/velka/central-african-man.jpg)
+
+Jean Elokobi is a social worker living in Garoua, Cameroon. In his spare time he enjoys playing the saxaphone, subbing in for a number of local bands. He is fluent in French, English and Fulfulde and has a burning desire to travel. Jean has found through his work he is often interacting with children or with young families, and he often wonders what can be done to support education in Cameroon. While only having a small exposure to coding, an out of school elective in C++ while studying at Université Catholique de l'Afrique Centrale, Jean is looking for ways to engage primary and highschool students with technology. He finds a lot of tech communities to be alienating though, not welcoming to people with non-technical backgrounds, and he's mindful of giving students positive interactions with technology as he knows through his work if students aren't engaged they will switch off.
 
 ## Contribute
 
