@@ -2,13 +2,11 @@
 
 _**Publish science for free, access science for free.**_
 
-# Personas
+# Personas and Pathways
 
-Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and are completely ficticious. 
+Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. By using these personas we build possible pathways for users and contributors by looking at how people come to the project and what they would need to stay on as a community member and advance right through to a leadership role if they so desire. 
 
-# Pathways
-
-The point of personas are to envisage how different people come to your project and look at what they would need to stay and advance on the project right through to leadership role if they so desire. 
+These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and are completely ficticious. 
 
 ## Saanvi Chavan
 
@@ -33,12 +31,12 @@ Klaus Müller is a lecturer at Justus-liebig-Universität Gießen, teaching as p
 
 ### Pathway
 
-* Discovery
-* First Contact
-* Participation
-* Sustained Participation
-* Networked Participation
-* Leadership
+* Discovery - Klaus sees a blog post written by an Aletheia communtiy member retweeted in his twitter feed.
+* First Contact - he looks over the website and is initially disdainful but looks into the problems with academic publishing pointed out in the rationale for Aletheia. Slowly as he talks to colleages about this issues and does some reading himself he agrees there is a problem.
+* Participation - in an attempt to see how legitimate Aletheia is Klaus looks over the GitHub repo and sees a number of issues he feels he could contribute to. He makes a small contribution to see how he is received by the community.
+* Sustained Participation - Klaus suggests a feature that he as a researcher looking to publish work would like to see as part of Aletheia. He works on this feature with other developers.
+* Networked Participation - He uses Aletheia as the example project in the opensource development class he teaches, using his feature as a case study and encourages students to participate.
+* Leadership - Klaus comes onboard as a GitHub repository maintainer, overseeing the contributions of his students and others.
 
 ## Jean Elokobi
 
@@ -48,12 +46,12 @@ Jean Elokobi is a social worker living in Garoua, Cameroon. In his spare time he
 
 ### Pathway
 
-* Discovery
-* First Contact
-* Participation
-* Sustained Participation
-* Networked Participation
-* Leadership
+* Discovery - Jean searches online for inclusive tech communities and sees someone mention Aletheia.
+* First Contact - He looks at the Aletheia website and emails the contact address asking what resources Aletheia has for people looking to get involved. He gets an email back outlining the introductory material for onboarding people onto the project.
+* Participation - Jean downloads the client and interacts with people on the forums discussing various votes.
+* Sustained Participation - He runs a session at a local school on inclusive online communities and profiles communities like the Rust communtiy and Aletheia.
+* Networked Participation - Jean obtains some introductory progamming materials and runs afterschool sessions on programming with an option for students to contribute to a real opensource project, Aletheia.
+* Leadership - He contributes to onboarding materials and coordinates the onboarding process for Aletheia.
 
 ## Cai Fàn
 
@@ -63,12 +61,12 @@ Cai is a marketing director working for a fortune 500 company in Haiphong, Vietn
 
 ### Pathway
 
-* Discovery
-* First Contact
-* Participation
-* Sustained Participation
-* Networked Participation
-* Leadership
+* Discovery - Looking over GitHub under educational projects Cai comes across Aletheia.
+* First Contact - She shares the website in her mothers group for educational projects to support and possible things to help introduce programming to highschool age children and give them some real hands on coding experience.
+* Participation - Cai looks over the pending issues for Aletheia and sees the project could use some marketing experience along with further technical experience.
+* Sustained Participation - She writes to the school her children go to along with the prospective universities they are considering and tells them about how the library could save money by using Aletheia rather than pay for paywall journals.
+* Networked Participation - Cai writes to the Aletheia maintainers and organisers a call for local volunteers to head out to the local schools and universities to talk about Aletheia, how students can use it and get involved in the Aletheia community.
+* Leadership - She oversees the global marketing campaign for Aletheia.
 
 ## Contribute
 
