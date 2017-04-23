@@ -2,15 +2,21 @@
 
 _**Publish science for free, access science for free.**_
 
-## Personas
+# Personas
 
 Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and are completely ficticious. 
+
+# Pathways
+
+The point of personas are to envisage how different people come to your project and look at what they would need to stay and advance on the project right through to management role if they so desire. 
 
 ## Saanvi Chavan
 
 ![student](https://upload.wikimedia.org/wikipedia/commons/e/ea/Indian_Student_UOA_0478.jpg)
 
 Saanvi Chavan is studying a Master of Arts in Ancient Indian History, Culture and Archaeology at Deccan College Post-Graduate and Research Institute in Pune, India. Saanvi loves the scooter she saved up and bought for herself when she started studying, it gives her a sense of independence from her sometimes overbearing family. When not studying she enjoys spending time at ABC Farms. Saanvi heard one of her lecturers talk about research a colleague was set to publish that's pertinent to her masters course, and after getting the name of the journal she checked with the university library. They said they don't carry a subscription to that journal and Saanvi isn't terribly confient in her technical, if she can't find the journal from a basic search she's resigned herself to the fact she won't get the information. Saanvi found the journal online, but to purchase the article from the journal directly costs roughly $50 US, she can't afford it herself, doesn't want to burden her parents by asking for money, and doesn't know how else she could source it.
+
+### Pathway
 
 ## Klaus Müller
 
