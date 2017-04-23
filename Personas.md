@@ -24,10 +24,13 @@ Klaus Müller is a lecturer at Justus-liebig-Universität Gießen, teaching as p
 
 Jean Elokobi is a social worker living in Garoua, Cameroon. In his spare time he enjoys playing the saxaphone, subbing in for a number of local bands. He is fluent in French, English and Fulfulde and has a burning desire to travel. Jean has found through his work he is often interacting with children or with young families, and he often wonders what can be done to support education in Cameroon. While only having a small exposure to coding, an out of school elective in C++ while studying at Université Catholique de l'Afrique Centrale, Jean is looking for ways to engage primary and highschool students with technology. He finds a lot of tech communities to be alienating though, not welcoming to people with non-technical backgrounds, and he's mindful of giving students positive interactions with technology. Jean knows if students don't feel engaged and welcome they will switch off and might not pursue a technical career down the track.
 
-## name
+## Cai Fàn
+
 ![contributor2](https://images.pexels.com/photos/28409/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb)
 
-To ensure we have a diverse range of personas, Aletheians are encouraged to create their own personas and add them here. Images should be taken from a creative commons search, or be images you have rights to.
+Cai is a marketing director working for a fortune 500 company in Haiphong, Vietnam. She never went to university, started working straight out of high school, and Cai feels she had to work inordinately hard to get where she is in her career. She wants things to be easier for her two children and actively encourages them to do well in school and go to university. To compete with other candidates that had degrees when going to promotions Cai coupled her marketing experience with technical knowledge to be an all rounder that can get things done. She is a self taught programmer, having taught herself Python and is learning Rust. Cai is looking for something that will help sharpen her technical skills, look good on a resume, and at the same time allow her to give back to the community and help with her children's education.
+
+To ensure we have a diverse range of personas, Aletheians are encouraged to create their own personas and add them here. Images should be taken from creative commons or be images you have rights to.
 
 Use this rough formula but feel free to add whatever you think is pertinent for the exercise.
 * One sentence naming your persona and covering what they do for study, employment, etc.
