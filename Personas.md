@@ -4,7 +4,7 @@ _**Publish science for free, access science for free.**_
 
 ## Personas
 
-Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/) and are completely ficticious. 
+Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and are completely ficticious. 
 
 ## Saanvi Chavan
 
