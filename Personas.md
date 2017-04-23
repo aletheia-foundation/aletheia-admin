@@ -4,7 +4,7 @@ _**Publish science for free, access science for free.**_
 
 ## Personas
 
-Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. These people are completely ficticious. 
+Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to indentify any barriers and make improvements. These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/) and are completely ficticious. 
 
 ## Saanvi Chavan
 
@@ -29,6 +29,8 @@ Jean Elokobi is a social worker living in Garoua, Cameroon. In his spare time he
 ![contributor2](https://images.pexels.com/photos/28409/pexels-photo.jpg?w=1260&h=750&auto=compress&cs=tinysrgb)
 
 Cai is a marketing director working for a fortune 500 company in Haiphong, Vietnam. She never went to university, started working straight out of high school, and Cai feels she had to work inordinately hard to get where she is in her career. She wants things to be easier for her two children and actively encourages them to do well in school and go to university. To compete with other candidates that had degrees when going to promotions Cai coupled her marketing experience with technical knowledge to be an all rounder that can get things done. She is a self taught programmer, having taught herself Python and is learning Rust. Cai is looking for something that will help sharpen her technical skills, look good on a resume, and at the same time allow her to give back to the community and help with her children's education.
+
+## Contribute
 
 To ensure we have a diverse range of personas, Aletheians are encouraged to create their own personas and add them here. Images should be taken from creative commons or be images you have rights to.
 
