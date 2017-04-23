@@ -22,9 +22,10 @@ Klaus Müller is a lecturer at Justus-liebig-Universität Gießen, teaching as p
 
 ![contributor1](http://www.publicdomainpictures.net/pictures/200000/velka/central-african-man.jpg)
 
-Jean Elokobi is a social worker living in Garoua, Cameroon. In his spare time he enjoys playing the saxaphone, subbing in for a number of local bands. He is fluent in French, English and Fulfulde and has a burning desire to travel. Jean has found through his work he is often interacting with children or with young families, and he often wonders what can be done to support education in Cameroon. While only having a small exposure to coding, an out of school elective in C++ while studying at Université Catholique de l'Afrique Centrale, Jean is looking for ways to engage primary and highschool students with technology. He finds a lot of tech communities to be alienating though, not welcoming to people with non-technical backgrounds, and he's mindful of giving students positive interactions with technology as he knows through his work if students aren't engaged they will switch off.
+Jean Elokobi is a social worker living in Garoua, Cameroon. In his spare time he enjoys playing the saxaphone, subbing in for a number of local bands. He is fluent in French, English and Fulfulde and has a burning desire to travel. Jean has found through his work he is often interacting with children or with young families, and he often wonders what can be done to support education in Cameroon. While only having a small exposure to coding, an out of school elective in C++ while studying at Université Catholique de l'Afrique Centrale, Jean is looking for ways to engage primary and highschool students with technology. He finds a lot of tech communities to be alienating though, not welcoming to people with non-technical backgrounds, and he's mindful of giving students positive interactions with technology. Jean knows if students don't feel engaged and welcome they will switch off and might not pursue a technical career down the track.
 
-## Contribute
+## name
+![contributor2](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-V9lK-OguLsT0mD7YdChi5LGjD2-f__h8lKJtHn5JtxjWMnkFaA)
 
 To ensure we have a diverse range of personas, Aletheians are encouraged to create their own personas and add them here. Images should be taken from a creative commons search, or be images you have rights to.
 
