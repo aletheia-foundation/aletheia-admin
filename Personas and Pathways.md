@@ -4,7 +4,7 @@ _**Publish science for free, access science for free.**_
 
 # Personas and Pathways
 
-Personas are a thought exercise in thinking about potential contributors and users and looking at how they would engage with the project to identify any barriers and make improvements. By using these personas we build possible pathways for users and contributors by looking at how people come to the project and what they would need to stay on as a community member and advance right through to a leadership role if they so desire. 
+Personas are a thought exercise in thinking about potential contributors and users to look at how they would engage with the project, helping to identify any barriers to entry and/or contribution so they can be removed. By using these personas we build possible pathways for users and contributors by looking at how people come to the project and what they would need to stay on as a community member and advance right through to a leadership role if they so desire. 
 
 These personas where created as part of the [Mozilla Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and are completely fictitious. 
 
