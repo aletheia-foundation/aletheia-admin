@@ -62,7 +62,7 @@ Cai is a marketing director working for a fortune 500 company in Haiphong, Vietn
 * Discovery - Looking over GitHub under educational projects Cai comes across Aletheia.
 * First Contact - She shares the Aletheia website in her mothers group for educational projects to support and possible things to help introduce programming to high school age children and give them some real hands on coding experience.
 * Participation - Cai looks over the pending issues for Aletheia and sees the project could use some marketing experience along with further technical experience.
-* Sustained Participation - She writes to the school her children attend along with the prospective universities they are considering and tells them about how the library could save money by using Aletheia rather than pay for paywall journals.
+* Sustained Participation - She writes to the school her children attend, along with the prospective universities they are considering, and tells them about how the library could save money by using Aletheia rather than pay for paywall journals.
 * Networked Participation - Cai writes to the Aletheia maintainers and organisers a call for local volunteers to head out to the local schools and universities to talk about Aletheia, how students can use it and how they can get involved in the Aletheia community.
 * Leadership - She oversees the global marketing campaign for Aletheia.
 
