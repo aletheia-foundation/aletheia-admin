@@ -21,7 +21,7 @@ We have one, it is located [here](https://github.com/aletheia-foundation/admin/b
 To give you an idea of where we've come from, what ground we've already covered, where we are going adn what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
 
 
-### How do I contact the maintainers to discuss my contribution, and where can I interact with fellow Aletheias?
+### How do I contact the maintainers to discuss my contribution, and where can I interact with fellow Aletheians?
 
 * You can email the Aletheia maintainers on contact@aletheia-foundation.io to discuss your contribution
 
