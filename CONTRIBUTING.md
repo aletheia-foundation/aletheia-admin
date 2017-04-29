@@ -4,6 +4,10 @@ _**Publish science for free, access science for free.**_
 
 Thank you for wanting to contribute!
 
+### Table of contents
+
+Write when you stop chopping and changing the format
+
 ## What should I know before I get started?
 
 ### The vision for Aletheia
