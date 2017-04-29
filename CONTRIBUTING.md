@@ -23,11 +23,11 @@ We have one, it is located [here](https://github.com/aletheia-foundation/admin/b
 To give you an idea of where we've come from, what ground we've already covered, where we are going adn what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
 
 
-### How to contact the maintainers to discuss contributions, and where to interact with fellow Aletheians
+### How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help
 
 * You can email the Aletheia maintainers on contact@aletheia-foundation.io to discuss your contribution
 
-* You can interact with other Aletheians in our [Slack channel](https://aletheiafoundation.slack.com). If other communication channels become popular we will look at setting those up as well.
+* You can interact with other Aletheians in our [Slack channel](https://aletheiafoundation.slack.com). If other communication channels become popular we will look at setting those up as well. This is also the place to sing out for help if you need it!
 
 ### The basic structure of Aletheia
 
