@@ -2,8 +2,6 @@
 
 _**Publish science for free, access science for free.**_
 
-# Contributing to Aletheia
-
 Thank you for wanting to contribute!
 
 ## What should I know before I get started?
@@ -27,7 +25,26 @@ To give you an idea of where we've come from, what ground we've already covered,
 
 * You can interact with other Aletheians in our [Slack channel](https://aletheiafoundation.slack.com). If other communication channels become popular we will look at setting those up as well.
 
-### I'm now up to speed and I want to contribute!
+### The basic structure of Aletheia
+
+To ensure you are contributing to the right repo it's a good idea to look over the repositories, get an idea for what goes where, and if you want to make a code contribution it's probably best to build a basic understanding of how Aletheia is put together. 
+
+**Overveiw of repos and the different pieces of Aletheia to be improved**
+
+* [Admin](https://github.com/aletheia-foundation/admin) is were documents pertaining to the organisation of the overall project are stored, such as the project README, licence file, etc. In fact, you should be in this repo right now!
+* [Website](https://github.com/aletheia-foundation/aletheia-foundation.github.io) is where the different bits and pieces for our GitHub pages website are stored.
+* [Logo](https://github.com/aletheia-foundation/logo) is were records of the initial logo design are kept for posterity.
+* [Whitepaper](https://github.com/aletheia-foundation/whitepaper) is where the whitepaper itself is hosted along with old copies.
+
+* [Aletheia app](https://github.com/aletheia-foundation/aletheia-app)
+* [Aletheia node]
+* [Embark Framework](https://github.com/aletheia-foundation/embark-framework) is the initial framework used for Aletheia that is set to be superceded by the Truffle Framework.
+* Truffle Framework is coming soon, I think...
+* [Js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api)
+
+## How can I contribute?
+
+### Technical and non-technical contributions
 
 Aletheia is not just software, it's a community, so contributing takes many forms.
 
@@ -36,14 +53,6 @@ Aletheia is not just software, it's a community, so contributing takes many form
 * Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
 Feel free to look over the issues in each of the repositories (there are technical and non-technical issues) and if there's one you want to work on, let us know. Non techies, this is where you leave off, techies continue on!
-
-### The basic structure of Aletheia
-
-To ensure you are contributing to the right repo it's a good idea to understand how Aletheia is put together. 
-
-**Overveiw of repos and the different pieces of Aletheia coming soon**
-
-## How can I contribute?
 
 ### Report bugs
 
