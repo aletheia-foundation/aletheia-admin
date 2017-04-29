@@ -67,6 +67,8 @@ Below are some useful resources:
 
 Aletheia was founded by two people, Kade and Roo. Kade sat down one day and decided he was going to do something about the problems with academic publishing outlined in the documentary _The Internet's Own Boy_. He came up with the idea for a publishing platform that was run by a community, free for anyone to use and access. He spoke about his idea to Roo, the two decided to make the idea a reality, and how you're reading the README file in their GitHub. Action can be that simple, and we invite you to join us.
 
+Currently Aletheians interact over [Slack](https://aletheiafoundation.slack.com). Drop an email  to the below address if you would like an invite.
+
 ## Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?
 
 You can reach out to us on the below:
