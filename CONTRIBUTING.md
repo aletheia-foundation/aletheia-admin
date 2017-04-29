@@ -8,13 +8,21 @@ Thank you for wanting to contribute!
 
 ## What should I know before I get started?
 
+### The vision for Aletheia
+
+Aletheia is a community run decentralised and distributed database used as a publishing platform for scientific research. The [README](https://github.com/aletheia-foundation/admin) is your introduction to the project and the overarching vision of what we are trying to achieve together. You can also get a snapshot of what we're all about from our [website](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/about.md). Finally, for the dedicated among you, there is the [whitepaper](https://github.com/aletheia-foundation/whitepaper). 
+
 ### The Code of Conduct
 
 We have one, it is located [here](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md), please look over before contributing.
 
-### I've read the Code and I want to contribute!
+### What's already been done/is underway?
 
-Aletheia is not just software, it is a community, so contributing takes many forms.
+To give you an idea of where we've come from, what ground we've already covered, where we are going adn what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
+
+### I'm now up to speed and I want to contribute!
+
+Aletheia is not just software, it's a community, so contributing takes many forms.
 
 * Do you want to contribute to Aletheia by writing code for the software? If so, this document outlines how you can do that. The below guidelines for contributing to the software are just that, guidelines, not hard and fast rules that must be adhered to. We ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
 
