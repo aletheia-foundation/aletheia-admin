@@ -52,7 +52,7 @@ Adding features to the client that will give it a point of difference from other
 * [Facebook](https://www.facebook.com/aletheiaf/) account setup
 * [Twitter](https://twitter.com/aletheia_f) account setup
 * [Slack](https://aletheiafoundation.slack.com) set up now we have more than two contributors in the same city
-* Mozilla Tech Speaker training passed. Kade can now evangelise Aletheia!
+* [Mozilla Tech Speaker](https://wiki.mozilla.org/TechSpeakers) training passed. Kade can now evangelise Aletheia and opensource software!
 
 ## Think you could help with any of these?
 
