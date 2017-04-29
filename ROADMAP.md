@@ -9,10 +9,6 @@ _**Publish science for free, access science for free.**_
 * [Website issues](https://github.com/aletheia-foundation/aletheia-foundation.github.io)
 * [Whitepaper issues](https://github.com/aletheia-foundation/whitepaper)
 
-## Milestone: Mozilla Tech Speakers
-
-Kade is currently going through the Mozilla Tech Speakers program that will help him become a better evangelist for Aletheia and opensource tech overall
-
 ## Milestone: Mozilla Open Leadership
 
 Kade is currently going through the Mozilla Open Leadership program to teach him how to run Aletheia as an opensource project
@@ -56,6 +52,7 @@ Adding features to the client that will give it a point of difference from other
 * [Facebook](https://www.facebook.com/aletheiaf/) account setup
 * [Twitter](https://twitter.com/aletheia_f) account setup
 * [Slack](https://aletheiafoundation.slack.com) set up now we have more than two contributors in the same city
+* Mozilla Tech Speaker training passed. Kade can now evangelise Aletheia!
 
 ## Think you could help with any of these?
 
