@@ -20,13 +20,20 @@ We have one, it is located [here](https://github.com/aletheia-foundation/admin/b
 
 To give you an idea of where we've come from, what ground we've already covered, where we are going adn what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
 
+
+### How do I contact the maintainers to discuss my contribution, and where can I interact with fellow Aletheias?
+
+* You can email the Aletheia maintainers on contact@aletheia-foundation.io to discuss your contribution
+
+* You can interact with other Aletheians in our [Slack channel](https://aletheiafoundation.slack.com). If other communication channels become popular we will look at setting those up as well.
+
 ### I'm now up to speed and I want to contribute!
 
 Aletheia is not just software, it's a community, so contributing takes many forms.
 
 * Do you want to contribute to Aletheia by writing code for the software? If so, this document outlines how you can do that. The below guidelines for contributing to the software are just that, guidelines, not hard and fast rules that must be adhered to. We ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
 
-* Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email contact@aletheia-foundation.io and contributions will be handled on a case by case basis.
+* Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
 Feel free to look over the issues in each of the repositories (there are technical and non-technical issues) and if there's one you want to work on, let us know. Non techies, this is where you leave off, techies continue on!
 
