@@ -18,7 +18,7 @@ Aletheia is a community run decentralised and distributed database used as a pub
 
 We have one, it is located [here](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md), please look over before contributing.
 
-### What's already been done/is underway
+### What's already been done and what's underway
 
 To give you an idea of where we've come from, what ground we've already covered, where we are going adn what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
 
@@ -45,6 +45,10 @@ To ensure you are contributing to the right repo it's a good idea to look over t
 * [Embark Framework](https://github.com/aletheia-foundation/embark-framework) is the initial framework used for Aletheia that is set to be superceded by the Truffle Framework.
 * Truffle Framework is coming soon, I think...
 * [Js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api)
+
+### How contributions are recognised
+
+***coming soon***
 
 ## How can I contribute?
 
