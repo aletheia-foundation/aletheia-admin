@@ -134,7 +134,9 @@ To make your enhancement suggestion as useful to others as possible, please cons
 
 ## Beginner issues
 
-Want to help build Aletheia but unsure where to start? Have a look at these beginner issues:
+Want to help build Aletheia but unsure where to start? Good beginner issues are flagged in the repositories through the label Good beginner issue.
+
+Have a look at these beginner issues:
 
 **Coming soon**
 
