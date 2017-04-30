@@ -48,7 +48,7 @@ To ensure you are contributing to the right repo it's a good idea to look over t
 
 ### Comments are required
 
-If your contribution will take place in any way on Github please read over [this](https://chris.beams.io/posts/git-commit/) blogpost. It's heavy on using Git from the command line but the fundimentals are still relevent. Comments make things easier for everyone, so please leave comments when making commits. Taken from the aforementioned blogpost, please follow these seven rules:
+If your contribution will take place in any way on GitHub or you use Git please read over [this](https://chris.beams.io/posts/git-commit/) blogpost. It's heavy on using Git from the command line but the fundimentals are still relevent. Comments make things easier for everyone, so please leave comments when making commits. Taken from the aforementioned blogpost, please follow these seven rules:
 
 * Separate subject from body with a blank line (Github does this automatically)
 * Limit the subject line to 50 characters (GitHub will warn you of this but not restrict you)
