@@ -87,14 +87,14 @@ Aletheia was founded on the principle that knowledge should be open and that sof
 
 Below is a list of our repositories and their licenses, you can check the LICENSE.md file in each repository for details:
 
-* admin Creative Commons Attribution Share Alike 4.0 license
-* whitepaper Creative Commons Attribution Share Alike 4.0 license
-* logo Creative Commons Attribution Share Alike 4.0 license
-* aletheia-foundation.github.io Creative Commons Attribution Share Alike 4.0 license
-* aletheia-node GNU Lesser General Public License v3.0
-* aletheia-app GNU Lesser General Public License v3.0
-* embark-framework MIT License
-* js-ipfs-api MIT License
+* [admin](https://github.com/aletheia-foundation/admin/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
+* [whitepaper](https://github.com/aletheia-foundation/whitepaper/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
+* logo will add
+* [aletheia-foundation.github.io](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
+* [aletheia-node](https://github.com/aletheia-foundation/aletheia-node/blob/master/LICENSE.md) GNU Lesser General Public License v3.0
+* [aletheia-app](https://github.com/aletheia-foundation/aletheia-app) GNU Lesser General Public License v3.0
+* [embark-framework](https://github.com/aletheia-foundation/embark-framework/blob/develop/LICENSE) MIT License
+* [js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api/blob/master/LICENSE) MIT License
 * truffle will add
 
 ## Thank you
