@@ -68,6 +68,18 @@ or the one liner:
 
 Fixing a typo in the Contributing guidelines
 
+### The standards maintainers will adhere to
+
+* Acknowledge when a new issue is posted by a contributor 
+* Notify users when you start and finish work
+* Summarize the state of the issue
+* Give periodic status updates
+* Inform everyone if you slip
+* Inform everyone if you’re on track
+* Make responsibility handoffs clear
+* Notify when new functionality is added to the project, and when fixes are made
+* Always use friendly tone and correct grammar to increase legibility
+
 ### How contributions are recognised
 
 ***coming soon***
