@@ -66,7 +66,7 @@ This addition to the flux capacitor stablises Embark.
 
 or the one liner:
 
-Fixing a typo in the Contributing guidelines
+Fix a typo in the Contributing guidelines
 
 ### The standards maintainers will adhere to
 
