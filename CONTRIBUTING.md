@@ -94,7 +94,13 @@ Aletheia is not just software, it's a community, so contributing takes many form
 
 * Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
-Feel free to look over the issues in each of the repositories (there are technical and non-technical issues) and if there's one you want to work on, let us know. Non techies, this is where you leave off, techies continue on!
+Feel free to look over the issues in each of the repositories (there are technical and non-technical issues).
+
+### I have something I want to work on, what's the next step?
+
+Please email the maintainers on contact@aletheia-foundation.io, your email should be tended to within 24 hours in most instances. If you want something more immediate please join our [Slack](https://aletheiafoundation.slack.com/) channel to discuss your contribution with the maintainers and other Aletheians.
+
+and if there's one you want to work on, let us know. Non techies, this is where you leave off, techies continue on!
 
 ### Report bugs
 
