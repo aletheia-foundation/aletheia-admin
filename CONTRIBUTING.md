@@ -94,13 +94,19 @@ Aletheia is not just software, it's a community, so contributing takes many form
 
 * Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
-Feel free to look over the issues in each of the repositories (there are technical and non-technical issues).
+### How do I find things people have already flagged as needing work?
+
+Feel free to look over the issues in each of the repositories, there are technical and non-technical issues. In the interest of making contribution as easy as possible we have created labels for issues. 
+
+Labels like *Good Beginner Issue* let people know that the particular issue might be a good place for someone new to Aletheia or someone who may not have a great deal of opensource experience to start. We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it. 
+
+The maintainers of Aletheia can only take a best guess at the type of contributions you want to make, so we have created labels as best we can but if you don't see an issue that corresponds to your skillsets, do not fret. You can still look over the existing issues, but we would also suggest you email the maintainers on contact@aletheia-foundation.io and let us know we should accomodate your skillset by adding labels for those skills. This will ensure that those with simmilar skills coming after you have a smooth journey. Helping the next person is all part of community building!
 
 ### I have something I want to work on, what's the next step?
 
 Please email the maintainers on contact@aletheia-foundation.io, your email should be tended to within 24 hours in most instances. If you want something more immediate please join our [Slack](https://aletheiafoundation.slack.com/) channel to discuss your contribution with the maintainers and other Aletheians.
 
-and if there's one you want to work on, let us know. Non techies, this is where you leave off, techies continue on!
+Non techies, this is where you leave off, techies continue on!
 
 ### Report bugs
 
