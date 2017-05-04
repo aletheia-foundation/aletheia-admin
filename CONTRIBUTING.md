@@ -82,7 +82,7 @@ Fix a typo in the Contributing guidelines
 
 ### How contributions are recognised
 
-***coming soon***
+The maintainers will endevour to send each new contributor a very nice thank you email after their first pull request. Thereafter, everytime the contributor makes ten more pull request the maintainers will endevour to send another very nice thank you email. This process is predecated on the fact that the recognition scheme is easy to maintain, if it gets to a point that it's not something else may need to be brought in. The Aletheia community might decide they want something else. But for now there will be very nice emails.
 
 ## How can I contribute?
 
