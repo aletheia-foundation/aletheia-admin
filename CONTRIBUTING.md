@@ -6,7 +6,26 @@ Thank you for wanting to contribute!
 
 ### Table of contents
 
-Write when you stop chopping and changing the format
+- [What should I know before I get started?](#what-should-i-know-before-i-get-started)
+  - [The vision for Aletheia](#the-vision-for-aletheia)
+  - [The Code of Conduct](#the-code-of-conduct)
+  - [What's already been done and what's underway](#whats-already-been-done-and-whats-underway)
+  - [How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-fellow-aletheians-and-how-to-ask-for-help)
+[The basic structure of Aletheia](#the-basic-structure-of-aletheia)
+  - [Comments are required](#comments-are-required)
+  - [The standards maintainers will adhere to](#the-standards-maintainers-will-adhere-to)
+  - [How contributions are recognised](#how-contributions-are-recognised)
+- [How can I contribute?](#how-can-i-contribute)
+  - [Technical and non-technical contributions](#technical-and-non-technical-contributions)
+  - [How do I find things people have already flagged as needing work?](#how-do-i-find-things-people-have-already-flagged-as-needing-work)
+  - [I have something I want to work on, what's the next step?](#i-have-something-i-want-to-work-on-whats-the-next-step)
+  - [Report bugs](#report-bugs)
+- [Enhancements](#enhancements)
+  - [Making an enhancement](#making-an-enhancement)
+  - [Suggesting an enhancement](#suggesting-an-enhancement)
+- [Beginner issues](#beginner-issues)
+- [Pull requests](#pull-requests)
+- [Style Guide](#style-guide)
 
 ## What should I know before I get started?
 
@@ -147,7 +166,7 @@ To make your bug report as useful to others as possible, please consider the bel
 * Are you using Aletheia with multiple monitors? If so, can you reproduce the problem when you use a single monitor?
 * Which keyboard layout are you using? Are you using a US layout or some other layout?
 
-## Making/suggesting enhancements
+## Enhancements
 
 It would be great if our software did exactly what we wanted, and it can, that's the whole point of opensource. In that spirit if you have an enhancement you'd like to suggest and you know some programming, you are encouraged to work on the enhancement here on GitHub. If you don't know any programming you're encouraged to learn, it's a great skill! But in the meantime you can suggest an enhancement that someone else might build.
 
