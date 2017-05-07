@@ -7,18 +7,18 @@ Thank you for checking out Aletheia.
 
 ## Table of Contents
 
-- [What is Aletheia?](#what-is-aletheia)
-- [OK, so why does this project exist?](#OK, so why does this project exist?)
-- [That's a terrible problem! How do we solve it?](#That's a terrible problem! How do we solve it?)
-- [So we get science to the people. How will this change things?](#So we get science to the people. How will this change things?)
-- [Is it all about science?](#Is it all about science?)
+- [What is Aletheia?](#first-things-first-what-is-aletheia)
+- [Why does this project exist?](#ok-so-why-does-this-project-exist)
+- [That's a terrible problem! How do we solve it?](#thats-a-terrible-problem-how-do-we-solve-it)
+- [So we get science to the people. How will this change things?](#so-we-get-science-to-the-people-how-will-this-change-things)
+- [Is it all about science?](#is-it-all-about-science)
 - [This sounds amazing! Can I join?](#this-sounds-amazing-can-i-join)
-- [So I can be a part of this community. How do I start?](#So I can be a part of this community. How do I start?)
-- [Who will I be interacting with once I join?](#Who will I be interacting with once I join?)
-- [Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?](#Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?)
-- [How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?](#How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?)
+- [So I can be a part of this community. How do I start?](#so-i-can-be-a-part-of-this-community-how-do-i-start)
+- [Who will I be interacting with once I join?](#who-will-i-be-interacting-with-once-i-join)
+- [Can I contact Aletheia and/or follow Aletheia on social media?](#can-i-contact-aletheia-and/or-follow-aletheia-for-news-about-the-project-science-and-open-access)
+- [How is Aletheia licensed?](#how-is-aletheia-licensed-can-i-use-the-material-and-source-code-in-these-repos-to-make-my-own-creation)
 
-## What is Aletheia?
+## First thing's first, what is Aletheia?
 
 In short, Aletheia is software for getting science published and into the hands of everyone, for free. It's a decentralised and distributed database used as a publishing platform for scientific research.
 
