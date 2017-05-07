@@ -3,7 +3,20 @@
 _**Publish science for free, access science for free.**_
 
 :tada::confetti_ball::tada: Welcome! :tada::confetti_ball::tada:
-Thank you for checking out Aletheia. 
+Thank you for checking out Aletheia.
+
+## Table of Contents
+
+- [First thing is first. What is Aletheia?](#First thing is first. What is Aletheia?)
+- [OK, so why does this project exist?](#OK, so why does this project exist?)
+- [That's a terrible problem! How do we solve it?](#That's a terrible problem! How do we solve it?)
+- [So we get science to the people. How will this change things?](#So we get science to the people. How will this change things?)
+- [Is it all about science?](#Is it all about science?)
+- [This sounds amazing! Can I join?](#This sounds amazing! Can I join?)
+- [So I can be a part of this community. How do I start?](#So I can be a part of this community. How do I start?)
+- [Who will I be interacting with once I join?](#Who will I be interacting with once I join?)
+- [Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?](#Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?)
+- [How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?](#How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?)
 
 ## First thing is first. What is Aletheia?
 
