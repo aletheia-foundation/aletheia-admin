@@ -12,7 +12,7 @@ Thank you for checking out Aletheia.
 - [That's a terrible problem! How do we solve it?](#That's a terrible problem! How do we solve it?)
 - [So we get science to the people. How will this change things?](#So we get science to the people. How will this change things?)
 - [Is it all about science?](#Is it all about science?)
-- [This sounds amazing! Can I join?](#This sounds amazing! Can I join?)
+- [This sounds amazing! Can I join?](#this-sounds-amazing-can-i-join)
 - [So I can be a part of this community. How do I start?](#So I can be a part of this community. How do I start?)
 - [Who will I be interacting with once I join?](#Who will I be interacting with once I join?)
 - [Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?](#Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?)
