@@ -35,7 +35,13 @@ A faster rising middle class across the world coupled with more scientific break
 
 Changing the world for you could be as simple as [preventing a loved one dying of cancer because someone had access to information they would not otherwise have had and invented an early detection test](https://en.wikipedia.org/wiki/Jack_Andraka#Pancreatic_cancer_sensor), or it could be even bigger than the founder's vision. That's the beauty of it, the vision is yours, yours to share as part of a community looking to turn that personal vision into reality.
 
-## This all sounds amazing! Can I join?
+## Is it all about science?
+
+No, there is more to it. Science is the area we feel Aletheia can make the largest impact as fast as possible, but it's clear a distrubuted and decentralised database that is designed to be hard to dismantle and is free to use has a number of applications. One of the goals of Aletheia is to prove this technology works so we can get to those other applications. Along with science, Aletheia is about advancing decentralised technology, making it opensource and bringing it to multiple industries.
+
+Another goal is to prove a new governance model. Aletheia is run by the community, its envisioned that the community with run clients that collectively form the Aletheia database, the community will vote on the contents of the database and what gets taken down. The community will propose, vote on a write new features of Aletheia. This notion of a group of people organising around a software platform that has no overarching governance structure is called a DAO, a [decentralised autonomous organisation](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization). DAOs already exist, but they aren't common currently. With Aletheia we want to prove that DAOs are viable and bring the idea of community governace to the mainstream.
+
+## This sounds amazing! Can I join?
 
 Yes! Anyone and everyone can participate. Aletheia is currently under construction and we are seeking developers and designers to get the platform up on its feet and community organisers to coordinate efforts. 
 
