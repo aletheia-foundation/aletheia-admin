@@ -7,7 +7,7 @@ Thank you for checking out Aletheia.
 
 ## Table of Contents
 
-- [What is Aletheia?](#what-is-aletheia?)
+- [What is Aletheia?](#what-is-aletheia)
 - [OK, so why does this project exist?](#OK, so why does this project exist?)
 - [That's a terrible problem! How do we solve it?](#That's a terrible problem! How do we solve it?)
 - [So we get science to the people. How will this change things?](#So we get science to the people. How will this change things?)
