@@ -15,7 +15,7 @@ Thank you for checking out Aletheia.
 - [This sounds amazing! Can I join?](#this-sounds-amazing-can-i-join)
 - [So I can be a part of this community. How do I start?](#so-i-can-be-a-part-of-this-community-how-do-i-start)
 - [Who will I be interacting with once I join?](#who-will-i-be-interacting-with-once-i-join)
-- [Can I contact Aletheia and/or follow Aletheia on social media?](#can-i-contact-aletheia-and-or-follow-aletheia-for-news-about-the-project-science-and-open-access)
+- [Can I contact Aletheia and/or follow Aletheia on social media?](#can-i-contact-aletheia-andor-follow-aletheia-for-news-about-the-project-science-and-open-access)
 - [How is Aletheia licensed?](#how-is-aletheia-licensed-can-i-use-the-material-and-source-code-in-these-repos-to-make-my-own-creation)
 
 ## First thing's first, what is Aletheia?
