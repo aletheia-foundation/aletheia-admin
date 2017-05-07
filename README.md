@@ -7,7 +7,7 @@ Thank you for checking out Aletheia.
 
 ## Table of Contents
 
-- [First thing is first. What is Aletheia?](#first-thing-is-first-what-is-aletheia?)
+- [What is Aletheia?](#what-is-aletheia?)
 - [OK, so why does this project exist?](#OK, so why does this project exist?)
 - [That's a terrible problem! How do we solve it?](#That's a terrible problem! How do we solve it?)
 - [So we get science to the people. How will this change things?](#So we get science to the people. How will this change things?)
@@ -18,7 +18,7 @@ Thank you for checking out Aletheia.
 - [Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?](#Can I contact Aletheia and/or follow Aletheia for news about the project, science and open access?)
 - [How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?](#How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?)
 
-## First thing is first. What is Aletheia?
+## What is Aletheia?
 
 In short, Aletheia is software for getting science published and into the hands of everyone, for free. It's a decentralised and distributed database used as a publishing platform for scientific research.
 
