@@ -31,7 +31,7 @@ Thank you for wanting to contribute!
 
 ### The vision for Aletheia
 
-Aletheia is a community run decentralised and distributed database used as a publishing platform for scientific research. The [README](https://github.com/aletheia-foundation/admin) is your introduction to the project and the overarching vision of what we are trying to achieve together. You can also get a snapshot of what we're all about from our [website](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/about.md). Finally, for the dedicated among you, there is the [whitepaper](https://github.com/aletheia-foundation/whitepaper). 
+Aletheia is a community run decentralised and distributed database used as a publishing platform for scientific research. The [README](https://github.com/aletheia-foundation/admin) is your introduction to the project and the overarching vision of what we are trying to achieve together. You can also get a snapshot of what we're all about from our [website](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/about.md). Finally, for the dedicated among you, there is the [whitepaper](https://github.com/aletheia-foundation/whitepaper).
 
 ### The Code of Conduct
 
@@ -50,7 +50,7 @@ To give you an idea of where we've come from, what ground we've already covered,
 
 ### The basic structure of Aletheia
 
-To ensure you are contributing to the right repo it's a good idea to look over the repositories, get an idea for what goes where, and if you want to make a code contribution it's probably best to build a basic understanding of how Aletheia is put together. 
+To ensure you are contributing to the right repo it's a good idea to look over the repositories, get an idea for what goes where, and if you want to make a code contribution it's probably best to build a basic understanding of how Aletheia is put together.
 
 **Overveiw of repos and the different pieces of Aletheia to be improved**
 
@@ -58,12 +58,11 @@ To ensure you are contributing to the right repo it's a good idea to look over t
 * [Website](https://github.com/aletheia-foundation/aletheia-foundation.github.io) is where the different bits and pieces for our GitHub pages website are stored.
 * [Logo](https://github.com/aletheia-foundation/logo) is were records of the initial logo design are kept for posterity.
 * [Whitepaper](https://github.com/aletheia-foundation/whitepaper) is where the whitepaper itself is hosted along with old copies.
-
-* [Aletheia app](https://github.com/aletheia-foundation/aletheia-app)
-* [Aletheia node](https://github.com/aletheia-foundation/aletheia-node)
+* [Aletheia app](https://github.com/aletheia-foundation/aletheia-app) is the main distributable app for aletheia. It is a cross platform app for peer to peer publishing. Technology used is NodeJs (electron), Ethereum and IPFS. Will support Windows, Ubuntu and OSX but so far is untested on Windows.
+* [Aletheia node](https://github.com/aletheia-foundation/aletheia-node) a cli service for contributing resources to aletheia from a server.
 * [Embark Framework](https://github.com/aletheia-foundation/embark-framework) is the initial framework used for Aletheia that is set to be superceded by the Truffle Framework.
 * Truffle Framework is coming soon, I think...
-* [Js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api)
+* [Js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api) Our forked copy of js-ipfs-api for bugfixes. All changes will be merged upstream to [ipfs/js-ipfs-api](https://github.com/ipfs/js-ipfs-api)
 
 ### Comments are required
 
@@ -89,7 +88,7 @@ Fix a typo in the Contributing guidelines
 
 ### The standards maintainers will adhere to
 
-* Acknowledge when a new issue is posted by a contributor 
+* Acknowledge when a new issue is posted by a contributor
 * Notify users when you start and finish work
 * Summarize the state of the issue
 * Give periodic status updates
@@ -115,9 +114,9 @@ Aletheia is not just software, it's a community, so contributing takes many form
 
 ### How do I find things people have already flagged as needing work?
 
-Feel free to look over the issues in each of the repositories, there are technical and non-technical issues. In the interest of making contribution as easy as possible we have created labels for issues. 
+Feel free to look over the issues in each of the repositories, there are technical and non-technical issues. In the interest of making contribution as easy as possible we have created labels for issues.
 
-Labels like *Good Beginner Issue* let people know that the particular issue might be a good place for someone new to Aletheia or someone who may not have a great deal of opensource experience to start. We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it. 
+Labels like *Good Beginner Issue* let people know that the particular issue might be a good place for someone new to Aletheia or someone who may not have a great deal of opensource experience to start. We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it.
 
 The maintainers of Aletheia can only take a best guess at the type of contributions you want to make, so we have created labels as best we can but if you don't see an issue that corresponds to your skillsets, do not fret. You can still look over the existing issues, but we would also suggest you email the maintainers on contact@aletheia-foundation.io and let us know we should accomodate your skillset by adding labels for those skills. This will ensure that those with simmilar skills coming after you have a smooth journey. Helping the next person is all part of community building!
 
@@ -136,17 +135,17 @@ Once Aletheia is up and running (which it isn't currently) we will need people t
 
 Once you have followed these steps you are ready to submit your bug report. Bugs are reported as GitHub issues.  
 
-* navigate to the desired repo, click **Issues** from the options running along the top of the page, then click the green **"New Issue"** button. 
+* navigate to the desired repo, click **Issues** from the options running along the top of the page, then click the green **"New Issue"** button.
 
 To make your bug report as useful to others as possible, please consider the below and try to answer as many of them as possible:
 
 **Explain the problem and include additional details to help maintainers reproduce the problem:**
 
 * Use a clear and descriptive title for the issue to identify the problem.
-* Describe the exact steps which reproduce the problem in as many details as possible. 
+* Describe the exact steps which reproduce the problem in as many details as possible.
 * Describe the behaviour you observed after following the steps and point out what exactly is the problem with that behaviour.
 * Explain what behaviour you expected to see instead and why.
-* Include screenshots where possible. 
+* Include screenshots where possible.
 * If you're reporting that Alethia crashed, include a crash report with a stack trace from the operating system if possible. Include the crash report in the issue in a code block, a file attachment, or put it in a gist and provide link to that gist.
 * If the problem is related to performance, include a CPU profile capture and a screenshot with your report if possible.
 * If the problem wasn't triggered by a specific action, describe what you were doing before the problem happened and share more information using the guidelines below.
@@ -155,12 +154,12 @@ To make your bug report as useful to others as possible, please consider the bel
 
 * Can you reproduce the problem in safe mode?
 * Did the problem start happening recently (e.g. after updating to a new version of Aletheia) or was this always a problem?
-* If the problem started happening recently, can you reproduce the problem in an older version of Aletheia? What's the most recent version in which the problem doesn't happen? 
+* If the problem started happening recently, can you reproduce the problem in an older version of Aletheia? What's the most recent version in which the problem doesn't happen?
 * Can you reliably reproduce the issue? If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 **Include details about your configuration and environment:**
 
-* Which version of Aletheia are you using? 
+* Which version of Aletheia are you using?
 * What's the name and version of the OS you're using?
 * Are you running Aletheia in a virtual machine? If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
 * Are you using Aletheia with multiple monitors? If so, can you reproduce the problem when you use a single monitor?
@@ -173,7 +172,7 @@ It would be great if our software did exactly what we wanted, and it can, that's
 ### Making an enhancement
 
 * **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may be planning to work on something similar.
-* **Read** the latest version of the [whitepaper](https://github.com/aletheia-foundation/whitepaper) first. This will align you with the project vision. 
+* **Read** the latest version of the [whitepaper](https://github.com/aletheia-foundation/whitepaper) first. This will align you with the project vision.
 * **Email** contact@aletheia-foundation.io to discuss your enhancement before you start. Aletheia has been designed to overcome problems in very particular ways, and we need to ensure the the enhancement meshes with the rest of Aletheia and isn't something already being worked on. We don't want your time and effort to go to waste. Down the track it is envisaged that the go/no go call for an enhancement will be made by the community in keeping with Aletheia's principles of decentralisation.
 
 ### Suggesting an enhancement
@@ -183,7 +182,7 @@ It would be great if our software did exactly what we wanted, and it can, that's
 
 Once you have followed these steps you are ready to submit your enhancement suggestion. Enhancements are suggested through GitHub issues much the same way bugs are reported.  
 
-* navigate to the desired repo, click **Issues** from the options running along the top of the page, then click the green **"New Issue"** button. 
+* navigate to the desired repo, click **Issues** from the options running along the top of the page, then click the green **"New Issue"** button.
 
 To make your enhancement suggestion as useful to others as possible, please consider the below and try to answer as many of them as possible:
 
@@ -191,10 +190,10 @@ To make your enhancement suggestion as useful to others as possible, please cons
 * Provide a step-by-step description of the suggested enhancement in as many details as possible.
 * Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples, as Markdown code blocks if possible.
 * Describe the current behaviour and explain which behaviour you expected to see instead and why.
-* Include screenshots which help you demonstrate the steps or point out the part of Aletheia which the suggestion is related to. 
+* Include screenshots which help you demonstrate the steps or point out the part of Aletheia which the suggestion is related to.
 * Explain why this enhancement would be useful to most Aletheia users.
 * List some other applications where this enhancement exists.
-* Specify which version of Aletheia you're using. 
+* Specify which version of Aletheia you're using.
 * Specify the name and version of the OS you're using.
 
 ## Beginner issues
