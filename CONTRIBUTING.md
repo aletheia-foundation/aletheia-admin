@@ -50,19 +50,29 @@ To give you an idea of where we've come from, what ground we've already covered,
 
 ### The basic structure of Aletheia
 
-To ensure you are contributing to the right repo it's a good idea to look over the repositories, get an idea for what goes where, and if you want to make a code contribution it's probably best to build a basic understanding of how Aletheia is put together.
+To ensure you are contributing to the right repository (repo) it's a good idea to look over the repos to get an idea for what goes where. You'll also find making a code contribution much easier if you understand how Aletheia is built.
 
-**Overveiw of repos and the different pieces of Aletheia to be improved**
+#### Aletheia repositories
 
-* [Admin](https://github.com/aletheia-foundation/admin) is were documents pertaining to the organisation of the overall project are stored, such as the project README, licence file, etc. In fact, you should be in this repo right now!
-* [Website](https://github.com/aletheia-foundation/aletheia-foundation.github.io) is where the different bits and pieces for our GitHub pages website are stored.
-* [Logo](https://github.com/aletheia-foundation/logo) is were records of the initial logo design are kept for posterity.
-* [Whitepaper](https://github.com/aletheia-foundation/whitepaper) is where the whitepaper itself is hosted along with old copies.
-* [Aletheia app](https://github.com/aletheia-foundation/aletheia-app) is the main distributable app for aletheia. It is a cross platform app for peer to peer publishing. Technology used is NodeJs (electron), Ethereum and IPFS. Will support Windows, Ubuntu and OSX but so far is untested on Windows.
-* [Aletheia node](https://github.com/aletheia-foundation/aletheia-node) a cli service for contributing resources to aletheia from a server.
-* [Embark Framework](https://github.com/aletheia-foundation/embark-framework) is the initial framework used for Aletheia that is set to be superceded by the Truffle Framework.
-* Truffle Framework is coming soon, I think...
-* [Js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api) Our forked copy of js-ipfs-api for bugfixes. All changes will be merged upstream to [ipfs/js-ipfs-api](https://github.com/ipfs/js-ipfs-api)
+Aletheia has several repos, each with a distinct purpose:
+
+* [**admin**](https://github.com/aletheia-foundation/admin) - information about the project and its organisation, such as the project README, licence file, etc. (You're in this repo right now.)
+* [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) - a cross-platform app for peer-to-peer publishing of scientific papers. This is the main distributable app and our main codebase. It uses [Electron](https://electron.atom.io) (which uses NodeJs), [Ethereum](https://www.ethereum.org) and [IPFS](https://ipfs.io). So far, we've tested the app on Ubuntu and OS X; eventually, we'll support Windows as well.
+* [**aletheia-node**](https://github.com/aletheia-foundation/aletheia-node) -  a command line service that we'll ask supporters to run to help serve files.
+* [**whitepaper**](https://github.com/aletheia-foundation/whitepaper) - the whitepaper and old versions of it. See this repo for more detail about the vision for Aletheia.
+* [**aletheia-foundation.github.io**](https://github.com/aletheia-foundation/aletheia-foundation.github.io) - the source for our GitHub Pages website (powered by Jekyll).
+* [**logo**](https://github.com/aletheia-foundation/logo) - records of the initial logo design for posterity.
+* [**embark-framework**](https://github.com/aletheia-foundation/embark-framework) - the framework intially used for Aletheia. We plan to replace it with the **Truffle Framework**.
+* [**js-ipfs-api**](https://github.com/aletheia-foundation/js-ipfs-api) - our forked copy of js-ipfs-api. We'll merge all our bugfixes upstream to [ipfs/js-ipfs-api](https://github.com/ipfs/js-ipfs-api).
+
+
+#### Languages
+
+Aletheia uses:
+* JavaScript (aletheia-app)
+* Shell scripts (aletheia-app, aletheia-node)
+* Ruby (aletheia-foundation.github.io)
+* HTML and CSS (aletheia-app, aletheia-foundation.github.io)
 
 ### Comments are required
 
@@ -178,7 +188,7 @@ It would be great if our software did exactly what we wanted, and it can, that's
 ### Suggesting an enhancement
 
 * **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may have already reported it.
-* **Determine** which repo the enhancement should be opened against, this is why it is a good idea to have a rough idea of Aletheia's building blocks. Not how they work, just want they are.
+* **Determine** which repo (see *Aletheia repositories* above for a reminder) the enhancement should be opened against; this is why it is a good idea to have a rough idea of Aletheia's building blocks. Not how they work, just want they are.
 
 Once you have followed these steps you are ready to submit your enhancement suggestion. Enhancements are suggested through GitHub issues much the same way bugs are reported.  
 
