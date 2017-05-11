@@ -79,7 +79,7 @@ Below are some useful resources:
 * [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you fully formed idea of the vision and goals of Aletheia.
 * [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p) - the condensed version of our vision and goals.
 * [Code of Conduct](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md) - the Code of Conduct we expect all Aletheians to abide by.
-* [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md) - if you're looking to contribute here are some guidelines to get you started.
+* [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTOR-GUIDELINES.md) - if you're looking to contribute here are some guidelines and information about the structure of Aletheia to get you started.
 * [Roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md) - want to see where we're at in the project, or looking for open issues to contribute to? Look no further.
 
 ## Who will I be interacting with once I join?
