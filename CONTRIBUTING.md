@@ -126,7 +126,9 @@ Aletheia is not just software, it's a community, so contributing takes many form
 
 Feel free to look over the issues in each of the repositories, there are technical and non-technical issues. In the interest of making contribution as easy as possible we have created labels for issues.
 
-Labels like *Good Beginner Issue* let people know that the particular issue might be a good place for someone new to Aletheia or someone who may not have a great deal of opensource experience to start. We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it.
+Labels like [*Good Beginner Issue*](https://github.com/search?q=org%3Aaletheia-foundation+label%3A%22good+beginner+issue%22&state=open&type=Issues) let people know that the particular issue might be a good place for someone new to Aletheia or someone who may not have a great deal of opensource experience to start.
+
+We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it.
 
 The maintainers of Aletheia can only take a best guess at the type of contributions you want to make, so we have created labels as best we can but if you don't see an issue that corresponds to your skillsets, do not fret. You can still look over the existing issues, but we would also suggest you email the maintainers on contact@aletheia-foundation.io and let us know we should accomodate your skillset by adding labels for those skills. This will ensure that those with simmilar skills coming after you have a smooth journey. Helping the next person is all part of community building!
 
@@ -208,11 +210,7 @@ To make your enhancement suggestion as useful to others as possible, please cons
 
 ## Beginner issues
 
-Want to help build Aletheia but unsure where to start? Good beginner issues are flagged in the repositories through the label Good beginner issue.
-
-Have a look at these beginner issues:
-
-**Coming soon**
+Want to help build Aletheia but unsure where to start? We've marked good beginner issues with the label *Good beginner issue*. Click [here](https://github.com/search?q=org%3Aaletheia-foundation+label%3A%22good+beginner+issue%22&state=open&type=Issues) to see all the open ones, and pitch in!
 
 ## Pull requests
 
