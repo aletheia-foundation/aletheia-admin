@@ -2,7 +2,7 @@
 
 _**Publish science for free, access science for free.**_
 
-# Social Media Strategy
+# Media Strategy
 
 For Aletheia to be successful we need a social media strategy that our social media team can take direction from.
 
