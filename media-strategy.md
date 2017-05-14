@@ -10,11 +10,11 @@ For Aletheia to be successful we need a media strategy that our social media tea
 Aletheia needs to be active on multiple social media platforms. The goal is to have an update on all channels at least once a day, if possible at times that coincide with high usage patterns of our audience. Along with the below, other channels need to be explored and leveraged.
 
 ### Channels we currently have
-[Facebook](https://www.facebook.com/aletheiaf)
-[Twitter](https://twitter.com/aletheia_f)
+* [Facebook](https://www.facebook.com/aletheiaf)
+* [Twitter](https://twitter.com/aletheia_f)
 
 ### Channels identified to utilise
-Instagram, people can submit photos to contact@aletheia-foundation.io of Aletheia events or activities related to material published by Aletheia such as field or lab research that will be posted on the Instagram account.
+* Instagram, people can submit photos to contact@aletheia-foundation.io of Aletheia events or activities related to material published by Aletheia such as field or lab research that will be posted on the Instagram account.
 
 ## Outreach
 
