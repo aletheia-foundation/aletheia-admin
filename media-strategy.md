@@ -45,3 +45,5 @@ Meeting regularly in-person with other Aletheians helps strengthen community bon
 * If you are in a position to meet up with people face to face try and have regular meetups. Once every two weeks or once a month is a good cadence. 
 * If you want, try and do different things. Whether they're hackathons, workshops, building sessions or just get togethers, you can plan different events to keep your membership engaged. 
 * Meetings are great for generating content. Post about your experiences, events, new members, volunteers, wins and lessons learned. 
+
+If you want to plan face to face events, Mozilla has a great resource for running awesome events [here](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/).
