@@ -46,4 +46,4 @@ Meeting regularly in-person with other Aletheians helps strengthen community bon
 * If you want, try and do different things. Whether they're hackathons, workshops, building sessions or just get togethers, you can plan different events to keep your membership engaged. 
 * Meetings are great for generating content. Post about your experiences, events, new members, volunteers, wins and lessons learned. 
 
-If you want to plan and run face to face events, Mozilla has a great resource for running awesome events [here](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/).
+If you want to plan and run face to face events, Mozilla has a great resource for running awesome events [here](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/) and [here](https://mozillascience.github.io/working-open-workshop/sprints_events/)
