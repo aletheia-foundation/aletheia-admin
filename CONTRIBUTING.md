@@ -214,8 +214,9 @@ Want to help build Aletheia but unsure where to start? We've marked good beginne
 
 ## Pull requests
 
-**Coming soon**
+ * Please adhere to the contributing guidelines listed above.
+ * Add unit tests for any contracts or code that can be tested.
 
 ## Style Guide
 
-**Coming soon**
+ [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
