@@ -219,4 +219,5 @@ Want to help build Aletheia but unsure where to start? We've marked good beginne
 
 ## Style Guide
 
- [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
+  * [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
+  * The forked libraries each maintain their own code style standards.
