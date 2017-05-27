@@ -140,7 +140,7 @@ Non techies, this is where you leave off, techies continue on!
 
 ### Report bugs
 
-Once Aletheia is up and running (which it isn't currently) we will need people to report bugs. First you must:
+First you must:
 
 * **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may have already reported it.
 * **Determine** which repo the issue should be opened against, this is why it is a good idea to have a rough idea of Aletheia's building blocks. Not how they work, just want they are.
