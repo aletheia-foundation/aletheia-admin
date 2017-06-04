@@ -13,37 +13,25 @@ _**Publish science for free, access science for free.**_
 
 Kade is currently going through the Mozilla Open Leadership program to teach him how to run Aletheia as an opensource project
 
-## Milestone: Instagram account
+## Milestone: Instagram account - currently being debated by the Aletheia community
 
 Kade hates instagram but has seen it used for effective marketing elsewhere. The goal is contributors can send in photos of them working on Aletheia, being part of the community, or if they are researchers they can send in photos out in the field or in the lab.
-
-## Milestone: [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/)
-
-Kade is working on getting the GitHub repo up to scratch for the Global Sprint and our first wave of potential contributors 
 
 ## Milestone: Website
 
 We need to enhance our web presence.
 
-* [Need to point our domain to the website](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/4)
 * [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
-* [Get the blog working](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/6)
 
-## Milestone: MozFest
+## Milestone: MozFest and Minimum Viable Product (MVP) - October 27th 2017
 
-Kade will apply to run a presentation at MozFest, at very least he will be at MozFest to help out anyway so he can talk to people about Aletheia.
-
-## Milestone: Minimum Viable Product
-
-A client you can upload documents to, search, and download documents from. This is our proof of concept
+Kade will apply to run a presentation at MozFest, at very least he will be at MozFest to help out anyway so he can talk to people about Aletheia. To conincide with the presentation we aim to have our MVP done by MozFest, a client you can upload documents to, search, and download documents from. This is our proof of concept
 
 * current issues in our MVP project [here](https://github.com/orgs/aletheia-foundation/projects/1).
 
-## Milestone: Aletheia 2.0
+## Milestone: Aletheia 2.0 - July 2018
 
 Adding features to the client that will give it a point of difference from other open access scientific journals
-
-* post mvp project coming soon.
 
 ## Completed Milestones
 
@@ -53,6 +41,7 @@ Adding features to the client that will give it a point of difference from other
 * [Twitter](https://twitter.com/aletheia_f) account setup
 * [Slack](https://aletheiafoundation.slack.com) set up now we have more than two contributors in the same city
 * [Mozilla Tech Speaker](https://wiki.mozilla.org/TechSpeakers) training passed. Kade can now evangelise Aletheia and opensource software!
+* [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) has been successfully attended and new volunteers introduced to the project.
 
 ## Think you could help with any of these?
 
