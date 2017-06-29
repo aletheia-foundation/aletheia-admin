@@ -110,11 +110,11 @@ Below is a list of our repositories and their licenses, you can check the LICENS
 * [whitepaper](https://github.com/aletheia-foundation/whitepaper/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
 * logo will add
 * [aletheia-foundation.github.io](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
-* [aletheia-node](https://github.com/aletheia-foundation/aletheia-node/blob/master/LICENSE.md) GNU Lesser General Public License v3.0
-* [aletheia-app](https://github.com/aletheia-foundation/aletheia-app) GNU Lesser General Public License v3.0
+* [aletheia-node](https://github.com/aletheia-foundation/aletheia-node/blob/master/LICENSE.md) GNU General Public License v3.0
+* [aletheia-app](https://github.com/aletheia-foundation/aletheia-app) GNU General Public License v3.0
 * [embark-framework](https://github.com/aletheia-foundation/embark-framework/blob/develop/LICENSE) MIT License
 * [js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api/blob/master/LICENSE) MIT License
-* truffle will add
+* [truffle](https://github.com/aletheia-foundation/truffle-contract) is not licensed, we have made best efforts to contact the Truffle team to no avail, but do note that their [overall repo](https://github.com/trufflesuite/truffle) is under the MIT License. As many parties are forking Truffle with no issues it is assumed that the entire Truffle organisation is under the MIT License. 
 
 ## Thank you
 
