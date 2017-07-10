@@ -114,7 +114,8 @@ Below is a list of our repositories and their licenses, you can check the LICENS
 * [aletheia-app](https://github.com/aletheia-foundation/aletheia-app) GNU General Public License v3.0
 * [embark-framework](https://github.com/aletheia-foundation/embark-framework/blob/develop/LICENSE) MIT License
 * [js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api/blob/master/LICENSE) MIT License
-* [truffle](https://github.com/aletheia-foundation/truffle-contract) is not licensed, we have made best efforts to contact the Truffle team to no avail, but do note that their [overall repo](https://github.com/trufflesuite/truffle) is under the MIT License. As many parties are forking Truffle with no issues it is assumed that the entire Truffle organisation is under the MIT License. 
+* [truffle](https://github.com/aletheia-foundation/truffle-contract) is not licensed, we have made best efforts to contact the Truffle team to no avail, but do note that their [overall repo](https://github.com/trufflesuite/truffle) is under the MIT License. As many parties are forking Truffle with no issues it is assumed that the entire Truffle organisation is under the MIT License.
+* [eth-faucet](https://github.com/aletheia-foundation/eth-faucet) MIT License
 
 ## Thank you
 
