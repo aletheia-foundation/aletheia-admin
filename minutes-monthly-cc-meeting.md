@@ -40,7 +40,7 @@ None, this is the first community meeting
 * [ ] Rob to push code for smart contracts
 * [x] Kade to chase lawyers
 * [x] Kade and Roo to have their Monday call and break down MVP features
-* [ ] Kade then to redo MVP milestones/timeline
+* [x] Kade then to redo MVP milestones/timeline
 * [ ] Kade to talk to Lisa about ORCID
 * [ ] Kade to map out features required to accomodate ORCID
 * [ ] Lisa to send Kade and Roo notes she plans to talk about at the two upcoming conferences
