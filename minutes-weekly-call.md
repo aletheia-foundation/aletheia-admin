@@ -17,12 +17,11 @@ None, first time meeting has been recorded
 The MVP project was cleaned up, added to, removed from and rescheduled.
 
 ## Action Items
-* [ ] Kade to remove open leadership from the milestones, it's now done
-* [ ] Kade to add in project for 2.0, - no idea figure it out
-* [ ] Kade to add in Lisa's events to milestones
+* [x] Kade to remove open leadership from the milestones, it's now done
+* [x] Kade to add in Lisa's events to milestones
 * [ ] Kade to update contributing.md with repo descriptions
 * [ ] Kade to update readme for app because there are some missing notes
 * [x] Kade to speak to Kolt about new issues assigned to him
 * [ ] Kade to sanity check all issues to see if any need closing
 * [x] Kade to speak to Rob and Roo about a metadata call and/or a sidechain call
-* [ ] Kade to change MVP miletone to end of the year. 
+* [x] Kade to change MVP miletone to end of the year. 
