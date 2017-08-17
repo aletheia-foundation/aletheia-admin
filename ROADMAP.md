@@ -23,9 +23,13 @@ Lisa is attending [Open Science Fair](http://opensciencefair.eu/) to present Ale
 
 Lisa is attending [Force 11](https://www.force11.org/article/force2017-abstract-announcement) to present Aletheia.
 
-## Milestone: MozFest and Minimum Viable Product (MVP) - October 27th 2017
+## Milestone: MozFest and  - October 27th 2017
 
 Kade has applied to run a presentation at MozFest. At very least he will be at MozFest to help out anyway so he can talk to people about Aletheia. 
+
+## Milestone: Minimum Viable Product (MVP) 1st January 2018
+
+Aletheia's bare bones realase of a client that you can upload to a decentralised database and download from a decetralised database.
 
 * current issues in our MVP project [here](https://github.com/orgs/aletheia-foundation/projects/1).
 
