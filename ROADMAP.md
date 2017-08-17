@@ -15,13 +15,13 @@ We need to enhance our web presence.
 
 * [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
 
-## Milestone: Force 11
-
-Lisa is attending [Force 11](https://www.force11.org/meetings/force2015) to present Aletheia.
-
-## Milestone: Open Science Fair
+## Milestone: Open Science Fair - September 6th 2017
 
 Lisa is attending [Open Science Fair](http://opensciencefair.eu/) to present Aletheia.
+
+## Milestone: Force 11 - 25th October 2017
+
+Lisa is attending [Force 11](https://www.force11.org/article/force2017-abstract-announcement) to present Aletheia.
 
 ## Milestone: MozFest and Minimum Viable Product (MVP) - October 27th 2017
 
