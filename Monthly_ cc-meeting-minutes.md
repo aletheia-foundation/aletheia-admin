@@ -39,12 +39,12 @@ None, this is the first community meeting
 * [ ] Kade will then sit down with Lisa to budget
 * [ ] Rob to push code for smart contracts
 * [x] Kade to chase lawyers
-* [ ] Kade and Roo to have their Monday call and break down MVP features
+* [x] Kade and Roo to have their Monday call and break down MVP features
 * [ ] Kade then to redo MVP milestones/timeline
 * [ ] Kade to talk to Lisa about ORCID
 * [ ] Kade to map out features required to accomodate ORCID
 * [ ] Lisa to send Kade and Roo notes she plans to talk about at the two upcoming conferences
-* [ ] Kade to draft up some project management documents
+* [x] Kade to draft up some project management documents
 * [ ] Kade to share said documents with the team
 
 ## 13/08/2017 suplimentary call
