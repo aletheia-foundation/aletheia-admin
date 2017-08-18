@@ -58,6 +58,7 @@ Aletheia has several active repos, each with a distinct purpose:
 
 * [**admin**](https://github.com/aletheia-foundation/admin) - information about the project and its organisation, such as the project README, licence file, etc. (You're in this repo right now.)
 * [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) - a cross-platform app for peer-to-peer publishing of scientific papers. This is the main distributable app and our main codebase. It uses [Electron](https://electron.atom.io) (which uses NodeJs), [Ethereum](https://www.ethereum.org) and [IPFS](https://ipfs.io). So far, we've tested the app on Ubuntu and OS X; eventually, we'll support Windows as well.
+* [**events and outreach**](https://github.com/aletheia-foundation/aletheia-events-and-outreach) - information about holding Aletheia events and conducting outreach on behalf of the project.
 * [**whitepaper**](https://github.com/aletheia-foundation/whitepaper) - the whitepaper and old versions of it. See this repo for more detail about the vision for Aletheia.
 * [**aletheia-foundation.github.io**](https://github.com/aletheia-foundation/aletheia-foundation.github.io) - the source for our GitHub Pages website (powered by Jekyll).
 * [**logo**](https://github.com/aletheia-foundation/logo) - records of the initial logo design for posterity.
