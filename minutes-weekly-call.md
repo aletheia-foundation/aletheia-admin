@@ -19,7 +19,7 @@ The MVP project was cleaned up, added to, removed from and rescheduled.
 ## Action Items
 * [x] Kade to remove open leadership from the milestones, it's now done
 * [x] Kade to add in Lisa's events to milestones
-* [ ] Kade to update contributing.md with repo descriptions
+* [x] Kade to update contributing.md with repo descriptions
 * [ ] Kade to update readme for app because there are some missing notes
 * [x] Kade to speak to Kolt about new issues assigned to him
 * [ ] Kade to sanity check all issues to see if any need closing
