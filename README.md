@@ -10,7 +10,8 @@ Thank you for checking out Aletheia.
 - [What is Aletheia?](#first-things-first-what-is-aletheia)
 - [Why does this project exist?](#ok-so-why-does-this-project-exist)
 - [That's a terrible problem! How do we solve it?](#thats-a-terrible-problem-how-do-we-solve-it)
-- [So we get science to the people. How will this change things?](#so-we-get-science-to-the-people-how-will-this-change-things)
+- [But open access journals already exist. How is Aletheia different?](#but-open-access-journals-already-exist-how-is-aletheia-different)
+- [So we get science to the people in a decentralised manner. How will this change things?](#so-we-get-science-to-the-people-how-will-this-change-things)
 - [Is it all about science?](#is-it-all-about-science)
 - [This sounds amazing! Can I join?](#this-sounds-amazing-can-i-join)
 - [So I can be a part of this community. How do I start?](#so-i-can-be-a-part-of-this-community-how-do-i-start)
@@ -38,7 +39,11 @@ We open science up. Academic publishers host scientific research and organise th
 
 We have the ability to create such software and we have the ability to organise a community around it, there is no reason we cannot build the world we want.
 
-## So we get science to the people. How will this change things?
+## But open access journals already exist, how is Aletheia different?
+
+Open access journals are scientific journals that do not restrict access to scientific information, and while Aletheia adheres to this principle it is different to existing open access journals in a number of ways. Open access journals often charge for publication to fund themselves, Aletheia is an open source project run by the money, time and computing power of volunteers, Aletheia has minimal overheads and is free to publish to. Open access journals are mostly centralised in many respects, having a single website users interact with to search for content, a single database storing the content, an opaque editoral board and sometimes even a closed peer review process. Aletheia has none of these things, it is a decentralised database distributed across community member PCs the world over, and is edited and peer reviewed by the community with a reputation system to drive quality of content. Aletheia is not beholden to any single interests and is literally in the hands (or computers!) of the community. Aletheia is YOURS.
+
+## So we get science to the people in a decentralised manner. How will this change things?
 
 The community around Aletheia shares a common vision, to change the world. That sounds very lofty and vague, but this vision is very real and very achievable. For the founders of Aletheia, changing the world means giving everyone with an internet connection access to humanity's collective knowledge. This will do two things. 
 
