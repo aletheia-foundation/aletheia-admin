@@ -22,6 +22,6 @@ The MVP project was cleaned up, added to, removed from and rescheduled.
 * [x] Kade to update contributing.md with repo descriptions
 * [x] Kade to update readme for app because there are some missing notes
 * [x] Kade to speak to Kolt about new issues assigned to him
-* [ ] Kade to sanity check all issues to see if any need closing
+* [x] Kade to sanity check all issues to see if any need closing
 * [x] Kade to speak to Rob and Roo about a metadata call and/or a sidechain call
 * [x] Kade to change MVP miletone to end of the year. 
