@@ -13,8 +13,6 @@ Format:
 ## Minutes from last meeting
 
 Composed of:
-
-* *What has the community been working on* from last month
 * *Items discussed* from last month
 
 ## Action items from last meeting
@@ -77,3 +75,26 @@ Call was specifically to discuss side chains and cost minimisation for running A
 ## Action Items
 
 * [ ] Rob to write the submission smart contract
+
+## 04/09/2017
+
+## Attendees
+
+* Roo
+* Kade
+
+## Minutes from last meeting
+
+* Kade updated Roo on progress with the submission smart contract.
+
+## Action items from last meeting
+N/A
+
+## Items discussed
+* Roo has been working on getting submissions to work
+* Kade ahs been having discussions with people from University of Texas regardng open access, talks with ConsenSys around creating content, ran through Lisa's presentations, and work redrafting the vision for peer review.
+* Kade had questions around scaling, ran through with Roo
+
+## Action Items
+* [ ] Roo to get submissions to work
+* [ ] Kade to write ConsenSys article
