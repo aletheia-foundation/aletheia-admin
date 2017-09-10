@@ -134,6 +134,8 @@ None, this is the first community meeting
 8. Kade has spoken to lawyers
 
 ## Items discussed
+What exchange are we going to use?
+Roo, can you open a bank account for Aletheia Foundation?
 
 ## Action Items
 * [ ] Kolt to start working on incorporating Angular into the Aletheia app
