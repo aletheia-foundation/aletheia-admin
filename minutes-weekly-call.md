@@ -92,9 +92,56 @@ N/A
 
 ## Items discussed
 * Roo has been working on getting submissions to work
-* Kade ahs been having discussions with people from University of Texas regardng open access, talks with ConsenSys around creating content, ran through Lisa's presentations, and work redrafting the vision for peer review.
+* Kade has been having discussions with people from University of Texas regardng open access, talks with ConsenSys around creating content, ran through Lisa's presentations, and work redrafting the vision for peer review.
 * Kade had questions around scaling, ran through with Roo
 
 ## Action Items
-* [ ] Roo to get submissions to work
-* [ ] Kade to write ConsenSys article
+* [x] Roo to get submissions to work
+* [x] Kade to write ConsenSys article
+
+## 11/09/2017
+
+## Attendees
+
+* Roo
+* Kade
+
+## Minutes from last meeting
+
+* NA
+
+## Action items from last meeting
+
+* NA
+
+## Items discussed
+
+* Kade updated Roo on conversation with lawyers for drawing up the not for profit
+* Since fundraising can take place soon, Kade and Roo threw around ideas for what fundraising will look like
+
+## Action Items
+
+* [ ] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
+* [ ] Kade and Roo to research cryptoexchanges
+* [ ] Kade to start putting together a business plan for Aletheia Foundation
+
+## date
+
+## Attendees
+
+## Minutes from last meeting
+
+Composed of:
+* *Items discussed* from last month
+
+## Action items from last meeting
+
+Composed of:
+
+* Any *Action Items* from last month
+
+## Items discussed
+
+## Action Items
+
+
