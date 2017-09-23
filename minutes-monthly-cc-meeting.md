@@ -93,7 +93,8 @@ None, this is the first community meeting
 ## Action Items
 * [ ] Kolt to start working on incorporating Angular into the Aletheia app
 
-## 10/09/2017
+Proposed meeting
+## 07/10/2017
 
 ## Attendees
 
@@ -139,5 +140,5 @@ Roo, can you open a bank account for Aletheia Foundation?
 
 ## Action Items
 * [ ] Kolt to start working on incorporating Angular into the Aletheia app
-* [ ] Kade will then sit down with Lisa to budget regarding Ethereum main net
+* [x] Kade will then sit down with Lisa to budget regarding Ethereum main net - looks like Casper might cover this
 * [ ] Rob to push code for smart contracts
