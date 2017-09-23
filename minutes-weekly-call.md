@@ -125,23 +125,32 @@ N/A
 * [ ] Kade and Roo to research cryptoexchanges
 * [ ] Kade to start putting together a business plan for Aletheia Foundation
 
-## date
+## 18/092017
 
 ## Attendees
 
+* Roo
+* Kade
+
 ## Minutes from last meeting
 
-Composed of:
-* *Items discussed* from last month
+* NA
 
 ## Action items from last meeting
 
-Composed of:
-
-* Any *Action Items* from last month
+* NA
 
 ## Items discussed
 
+* Kade hasn't yet had a chance to do his research from last week so those action items will carry over
+* Roo got the submission system working
+* Kade Ran through Plasma with Roo, it's a long way off
+* Roo suggested looking into Casper as would make Aletheia cheaper to run
+* Was decided to put off September's community call until October as we have new volunteers starting
+
 ## Action Items
 
+* [ ] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
+* [ ] Kade and Roo to research cryptoexchanges
+* [ ] Kade to start putting together a business plan for Aletheia Foundation
 
