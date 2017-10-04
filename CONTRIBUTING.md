@@ -39,7 +39,7 @@ We have one, it is located [here](https://github.com/aletheia-foundation/admin/b
 
 ### What's already been done and what's underway
 
-To give you an idea of where we've come from, what ground we've already covered, where we are going adn what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
+To give you an idea of where we've come from, what ground we've already covered, where we are going and what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
 
 
 ### How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help
@@ -79,7 +79,7 @@ Aletheia uses:
 
 ### Comments are required
 
-If your contribution will take place in any way on GitHub or you use Git please read over [this](https://chris.beams.io/posts/git-commit/) blogpost. It's heavy on using Git from the command line but the fundimentals are still relevent. Comments make things easier for everyone, so please leave comments when making commits. Taken from the aforementioned blogpost, please follow these seven rules:
+If your contribution will take place in any way on GitHub or you use Git please read over [this](https://chris.beams.io/posts/git-commit/) blogpost. It's heavy on using Git from the command line but the fundamentals are still relevent. Comments make things easier for everyone, so please leave comments when making commits. Taken from the aforementioned blogpost, please follow these seven rules:
 
 * Separate subject from body with a blank line (Github does this automatically)
 * Limit the subject line to 50 characters (GitHub will warn you of this but not restrict you)
