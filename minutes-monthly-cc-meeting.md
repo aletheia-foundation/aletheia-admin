@@ -132,7 +132,12 @@ Proposed meeting
 5. Kade writing articles about Aletheia for ConsenSys
 6. Both Colper Science podcasts Kade recorded are out
 7. Kade and Roo reworked the project plan
-8. Kade has spoken to lawyers
+8. Kade has spoken to lawyers, that's still ongoing
+9. Kade accepted into Blockchain for Science
+10. Kade accepted for MozFest and two secondary sessions at MozFest
+11. Kade's been accepted to a blockchain for science group in Auckland
+12. Welcomed on board a number of new contributors
+13. Kade working on business plans
 
 ## Items discussed
 What exchange are we going to use?
