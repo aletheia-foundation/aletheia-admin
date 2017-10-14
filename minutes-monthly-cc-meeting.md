@@ -64,8 +64,8 @@ None, this is the first community meeting
 
 ## Action Items
 * [x] Kade and Roo to talk with Rob about side chains and work out a fixed cost
-* [ ] Kade will then sit down with Lisa to budget
-* [ ] Rob to push code for smart contracts
+* [x] Kade will then sit down with Lisa to budget
+* [x] Rob to push code for smart contracts
 * [x] Kade to chase lawyers
 * [x] Kade and Roo to have their Monday call and break down MVP features
 * [x] Kade then to redo MVP milestones/timeline
@@ -73,7 +73,7 @@ None, this is the first community meeting
 * [x] Kade to map out features required to accomodate ORCID
 * [x] Lisa to send Kade and Roo notes she plans to talk about at the two upcoming conferences
 * [x] Kade to draft up some project management documents
-* [ ] Kade to share said documents with the team
+* [x] Kade to share said documents with the team
 
 ## 13/08/2017 suplimentary call
 
@@ -91,12 +91,20 @@ None, this is the first community meeting
 * Kolt previously created a mockup of the Aletheia interface, will do more work around this but Angular is his focus for now.
 
 ## Action Items
-* [ ] Kolt to start working on incorporating Angular into the Aletheia app
+* [x] Kolt to start working on incorporating Angular into the Aletheia app
 
 Proposed meeting
 ## 07/10/2017
 
 ## Attendees
+First meeting
+* Roo
+* Kade
+
+Second meeting
+* Rob
+* Chris
+* Kade
 
 ## Minutes from last meeting
 * Lisa attending conferences and manning the twitter account
@@ -120,10 +128,10 @@ Proposed meeting
 * Project (MVP)
 
 ## What has the community been working on
-* Update from Lisa
 * Update from Rob
+1. Submission smart contract was run through at a high level and later pushed to GitHub
 * Update from Roo
-* Update from Kolt
+1. Working on incorporating Angular into the app
 * Update from Kade
 1. We've advanced the conversations around the submissions smart contract, Rob is working on
 2. Kade finished reading the peer review paper and has sketched out a better version of peer review
@@ -140,10 +148,12 @@ Proposed meeting
 13. Kade working on business plans
 
 ## Items discussed
-What exchange are we going to use?
-Roo, can you open a bank account for Aletheia Foundation?
+What exchange are we going to use? We think we will go with Kraken
+For bank account looks like we will go with Westpac
+ORCID might not be as simple as was decided and we may need to incorporate it into the application or see if they can incorporate an Aletheia ID of some description. 
+The submission contract needs further defining so we can create a single design document people can reference.
 
 ## Action Items
-* [ ] Kolt to start working on incorporating Angular into the Aletheia app
-* [x] Kade will then sit down with Lisa to budget regarding Ethereum main net - looks like Casper might cover this
-* [ ] Rob to push code for smart contracts
+* [x] Roo to start working on incorporating Angular into the Aletheia app
+* [x] Rob to push code for smart contracts
+* [x] Kade to draw up the process flow for submissions and email it to everyone
