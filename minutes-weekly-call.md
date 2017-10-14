@@ -150,7 +150,7 @@ N/A
 
 ## Action Items
 
-* [ ] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
-* [ ] Kade and Roo to research cryptoexchanges
+* [x] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
+* [x] Kade and Roo to research cryptoexchanges
 * [ ] Kade to start putting together a business plan for Aletheia Foundation
 
