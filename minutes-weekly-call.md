@@ -125,7 +125,7 @@ N/A
 * [x] Kade and Roo to research cryptoexchanges
 * [ ] Kade to start putting together a business plan for Aletheia Foundation
 
-## 18/092017
+## 18/09/2017
 
 ## Attendees
 
@@ -154,3 +154,24 @@ N/A
 * [x] Kade and Roo to research cryptoexchanges
 * [ ] Kade to start putting together a business plan for Aletheia Foundation
 
+## 16/10/2017
+
+## Attendees
+* Roo
+* Chris
+* Rob
+* Kade
+
+## Minutes from last meeting
+* Kade has decided Kraken will be the exchange Aletheia uses and Westpac the bank for opening a bank account
+* Roo got the submission system working
+* Kade Ran through Plasma with Roo, it's a long way off
+* Roo suggested looking into Casper as would make Aletheia cheaper to run
+* Was decided to put off September's community call until October as we have new volunteers starting
+
+## Action items from last meeting
+* [ ] Kade to start putting together a business plan for Aletheia Foundation
+
+## Items discussed
+
+## Action Items
