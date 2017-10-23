@@ -18,7 +18,7 @@ Aletheia's volunteer team consists of:
 * Lisa
 * Michael
 * Ameen
-* r3versi 
+* Federico
 * Rachel
 * Rob
 * Yann-Aël
