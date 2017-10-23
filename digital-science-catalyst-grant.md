@@ -20,7 +20,7 @@ Aletheia's volunteer team consists of:
 * Ameen
 * Federico
 * Rachel
-* Rob
+* Dr Rob Syme
 * Yann-Aël
 
 We've reached out to [Jon Tennant](http://fossilsandshit.com/) who has agreed to serve on an advisory board we are in the course of establishing.
