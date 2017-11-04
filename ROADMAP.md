@@ -9,20 +9,6 @@ _**Publish research for free, access research for free.**_
 * [Website issues](https://github.com/aletheia-foundation/aletheia-foundation.github.io)
 * [Whitepaper issues](https://github.com/aletheia-foundation/whitepaper)
 
-## Milestone: Website
-
-We need to enhance our web presence.
-
-* [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
-
-## Milestone: Open Science Fair - September 6th 2017
-
-Lisa is attending [Open Science Fair](http://opensciencefair.eu/) to present Aletheia.
-
-## Milestone: Force 11 - 25th October 2017
-
-Lisa is attending [Force 11](https://www.force11.org/article/force2017-abstract-announcement) to present Aletheia.
-
 ## Milestone: MozFest and  - October 27th 2017
 
 Kade has applied to run a presentation at MozFest. At very least he will be at MozFest to help out anyway so he can talk to people about Aletheia. 
@@ -45,8 +31,13 @@ Adding features to the client that will give it a point of difference from other
 * [Twitter](https://twitter.com/aletheia_f) account setup
 * [Slack](https://aletheiafoundation.slack.com) set up now we have more than two contributors in the same city
 * [Mozilla Tech Speaker](https://wiki.mozilla.org/TechSpeakers) training passed. Kade can now evangelise Aletheia and opensource software!
-* [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) has been successfully attended and new volunteers introduced to the project.
+* [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) has been successfully attended and new volunteers introduced to the project
 * [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/)
+* [Need to get the website to a presentable state](https://github.com/aletheia-foundation/aletheia-foundation.github.io/issues/5)
+* Lisa attended [Open Science Fair](http://opensciencefair.eu/) to present Aletheia
+* Lisa attended [Force 11](https://www.force11.org/article/force2017-abstract-announcement) to present Aletheia (Poster [here](https://figshare.com/articles/Aletheia_Poster_Force2017/5566699))
+* Lisa attended Blockchain for Science, 27.10.17 (Slides [here](https://figshare.com/articles/Aletheia_-_Technology_and_Community_for_Open_Knowledge_Sharing/5566678))
+* Kade ran two presentations at MozFest and helped with eLife presenting [Blockchain for science, opportunity or hype?](https://github.com/npscience/MozFest2017/pull/15#issuecomment-341713876)
 
 ## Shelved Milestones
 
