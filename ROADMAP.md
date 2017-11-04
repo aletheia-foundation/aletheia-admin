@@ -9,6 +9,10 @@ _**Publish research for free, access research for free.**_
 * [Website issues](https://github.com/aletheia-foundation/aletheia-foundation.github.io)
 * [Whitepaper issues](https://github.com/aletheia-foundation/whitepaper)
 
+## Miletone: Aaron Swartz Day
+
+People can work on Aletheia as part of [Aaron Swartz Day 2017](https://www.aaronswartzday.org/aletheia/)
+
 ## Milestone: Minimum Viable Product (MVP) 1st January 2018
 
 Aletheia's bare bones realase of a client that you can upload to a decentralised database and download from a decetralised database.
