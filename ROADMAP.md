@@ -9,10 +9,6 @@ _**Publish research for free, access research for free.**_
 * [Website issues](https://github.com/aletheia-foundation/aletheia-foundation.github.io)
 * [Whitepaper issues](https://github.com/aletheia-foundation/whitepaper)
 
-## Milestone: MozFest and  - October 27th 2017
-
-Kade has applied to run a presentation at MozFest. At very least he will be at MozFest to help out anyway so he can talk to people about Aletheia. 
-
 ## Milestone: Minimum Viable Product (MVP) 1st January 2018
 
 Aletheia's bare bones realase of a client that you can upload to a decentralised database and download from a decetralised database.
