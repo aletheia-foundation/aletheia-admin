@@ -12,7 +12,7 @@ Thank you for wanting to contribute!
   - [What's already been done and what's underway](#whats-already-been-done-and-whats-underway)
   - [How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-fellow-aletheians-and-how-to-ask-for-help)
   - [The basic structure of Aletheia](#the-basic-structure-of-aletheia)
-  - [Working from GitHub issues is required](working-from-github-issues-is-required)
+  - [Working from GitHub issues is required](#working-from-github-issues-is-required)
   - [Posting your work to GitHub, where possible, is required](#posting-your-work-to-github-where-possible-is-required)
   - [Comments are required](#comments-are-required)
   - [The standards maintainers will adhere to](#the-standards-maintainers-will-adhere-to)
