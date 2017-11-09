@@ -83,9 +83,13 @@ Aletheia uses:
 
 There must be a GitHub issue for anything you work on. If you can't find an existing GitHub issue, after discussing with one of the maintainers listed as contacts in the README, feel free to take the initiative and create one yourself. By having a GitHub issue for all ongoing tasks will give oversight to all volunteer activities, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
 
+Please also give periodic updates. Every two weeks is a good rule of thumb.
+
 ### Posting your work to GitHub, where possible, is required
 
 If you are working on something that will produce code, a document (even non technical documents like checklists for event planning etc.), a file, anything that can be saved rather can contributions like posting to social media etc., it's asked you post the material to GitHub. This will give oversight to your work, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
+
+Please also give periodic updates. Every two weeks is a good rule of thumb.
 
 ### Comments are required
 
