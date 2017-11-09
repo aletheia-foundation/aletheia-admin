@@ -12,6 +12,8 @@ Thank you for wanting to contribute!
   - [What's already been done and what's underway](#whats-already-been-done-and-whats-underway)
   - [How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-fellow-aletheians-and-how-to-ask-for-help)
   - [The basic structure of Aletheia](#the-basic-structure-of-aletheia)
+  - [Working from GitHub issues is required](working-from-github-issues-is-required)
+  - [Posting your work to GitHub, where possible, is required](#posting-your-work-to-github-where-possible-is-required)
   - [Comments are required](#comments-are-required)
   - [The standards maintainers will adhere to](#the-standards-maintainers-will-adhere-to)
   - [How contributions are recognised](#how-contributions-are-recognised)
@@ -76,6 +78,14 @@ Aletheia uses:
 * Shell scripts (aletheia-app, aletheia-node)
 * Ruby (aletheia-foundation.github.io)
 * HTML and CSS (aletheia-app, aletheia-foundation.github.io)
+
+### Working from GitHub issues is required 
+
+There must be a GitHub issue for anything you work on. If you can't find an existing GitHub issue, after discussing with one of the maintainers listed as contacts in the README, feel free to take the initiative and create one yourself. By having a GitHub issue for all ongoing tasks will give oversight to all volunteer activities, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
+
+### Posting your work to GitHub, where possible, is required
+
+If you are working on something that will produce code, a document (even non technical documents like checklists for event planning etc.), a file, anything that can be saved rather can contributions like posting to social media etc., it's asked you post the material to GitHub. This will give oversight to your work, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
 
 ### Comments are required
 
