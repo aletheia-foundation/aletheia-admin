@@ -2,6 +2,10 @@
 
 _**Publish research for free, access research for free.**_
 
+## Mission and Summary
+
+Aletheia is a decentralised open access scientific journal. Think of it as a peer to peer (P2P) publishing platform and database all rolled into one. You can submit original scientific research or existing non copyrighted research to help build up our library, and you can access our library to download articles, all free of charge!
+
 ## Milestone: Ongoing issues
 
 * [General admin](https://github.com/aletheia-foundation/admin/issues)
