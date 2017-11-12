@@ -6,6 +6,10 @@ _**Publish research for free, access research for free.**_
 
 Aletheia is a decentralised open access scientific journal. Think of it as a peer to peer (P2P) publishing platform and database all rolled into one. You can submit original scientific research or existing non copyrighted research to help build up our library, and you can access our library to download articles, all free of charge!
 
+## Contributing
+
+If you want to help out with any of these issues, please check out our [README](https://github.com/aletheia-foundation/aletheia-admin/blob/master/README.md) and [contributing guidelines](https://github.com/aletheia-foundation/aletheia-admin/blob/master/CONTRIBUTING.md)
+
 ## Milestone: Ongoing issues
 
 * [General admin](https://github.com/aletheia-foundation/admin/issues)
