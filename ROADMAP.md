@@ -13,6 +13,10 @@ Aletheia is a decentralised open access scientific journal. Think of it as a pee
 * [Website issues](https://github.com/aletheia-foundation/aletheia-foundation.github.io)
 * [Whitepaper issues](https://github.com/aletheia-foundation/whitepaper)
 
+## Milestone: Funding Channels
+
+The end goal is that Aletheia is financially sustainable, and the first step of this is to ensure methods that people can donate to the development of the platform are established.
+
 ## Milestone: Minimum Viable Product (MVP) 1st January 2018
 
 Aletheia's bare bones realase of a client that you can upload to a decentralised database and download from a decetralised database.
@@ -39,6 +43,7 @@ Adding features to the client that will give it a point of difference from other
 * Lisa attended Blockchain for Science, 27.10.17 (Slides [here](https://figshare.com/articles/Aletheia_-_Technology_and_Community_for_Open_Knowledge_Sharing/5566678))
 * Kade ran two presentations at MozFest and helped with eLife presenting [Blockchain for science, opportunity or hype?](https://github.com/npscience/MozFest2017/pull/15#issuecomment-341713876)
 * People can work on Aletheia as part of [Aaron Swartz Day 2017](https://www.aaronswartzday.org/aletheia/)
+* Legal entity for Not For Profit established
 
 ## Shelved Milestones
 
