@@ -6,7 +6,7 @@ _**Publish research for free, access research for free.**_
 
 ## Abstract
 
-Our goal is to enhance the current scientific publishing and peer-review systems by leveraging the potential offered by recent technologies such as blockchains and decentralised storage systems. We believe these technologies can make the scientific publication process more efficient, transparent, and fair. Our projet is open-source, backed by a foundation ([Aletheia](https://www.linkedin.com/pulse/aletheia-101-kade-morton/), and aims at getting science published and peer-reviewed into the hands of everyone. 
+Our goal is to enhance the current scientific publishing and peer-review systems by leveraging the potential offered by recent technologies such as blockchains and decentralised storage systems. We believe these technologies can make the scientific publication process more efficient, transparent, and fair. Our projet is open-source, backed by a foundation ([Aletheia](https://www.linkedin.com/pulse/aletheia-101-kade-morton/)), and aims at getting science published and peer-reviewed into the hands of everyone. 
 
 ## Team
 
