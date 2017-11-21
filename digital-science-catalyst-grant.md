@@ -22,7 +22,7 @@ Aletheia's volunteer team consists of:
 * Federico
 * Rachel
 * Dr Rob Syme
-* Yann-Aël Le Borgne: Postdoctoral researcher in Machine Learning. University of Brussels, Belgium. 
+* [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb): Postdoctoral researcher in Machine Learning. University of Brussels, Belgium. 
 
 We've reached out to [Jon Tennant](http://fossilsandshit.com/) who has agreed to serve on an advisory board we are in the course of establishing.
 
