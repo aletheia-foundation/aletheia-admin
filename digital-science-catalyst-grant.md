@@ -6,13 +6,14 @@ _**Publish research for free, access research for free.**_
 
 ## Abstract
 
-In short, [Aletheia](https://www.linkedin.com/pulse/aletheia-101-kade-morton/) is software for getting science published and into the hands of everyone, for free. It's a decentralised and distributed database used as a publishing platform for scientific research. Aletheia has been designed to enhance existing open access efforts by leveraging modern ideas and technology while being a counterpoint to paywall journals.
+[Aletheia](https://www.linkedin.com/pulse/aletheia-101-kade-morton/) aims to enhance the current scientific publishing and peer-review systems by leveraging the potential offered by recent technologies such as blockchains and decentralised storage systems. We believe these technologies can make the scientific publication process more efficient, transparent, and fair. Aletheia is [open-source](https://github.com/aletheia-foundation), and backed by a foundation. 
 
 ## Team
 
 [Kade Morton](linkedin.com/in/kade-morton-34179283) and [Roo](https://github.com/roo2) co-founded Aletheia. Kade works as a security consultant and Roo works as a software developer.
 
 Aletheia's volunteer team consists of:
+
 * Chris
 * Kolt
 * Lisa
@@ -21,7 +22,7 @@ Aletheia's volunteer team consists of:
 * Federico
 * Rachel
 * Dr Rob Syme
-* Yann-Aël
+* [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb): Postdoctoral researcher in Machine Learning. University of Brussels, Belgium. 
 
 We've reached out to [Jon Tennant](http://fossilsandshit.com/) who has agreed to serve on an advisory board we are in the course of establishing.
 
