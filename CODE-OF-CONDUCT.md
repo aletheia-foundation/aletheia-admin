@@ -17,7 +17,7 @@ Respect that people have differences of opinion and that every design or impleme
 
 Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works. 
 
-We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behaviour. We interpret the term “harassment” as including the definition in the Citizen Code of Conduct; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behaviour that excludes people in socially marginalised groups. 
+We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behaviour. We interpret the term “harassment” as including the definition in the [Citizen Code of Conduct](http://citizencodeofconduct.org/); if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behaviour that excludes people in socially marginalised groups. 
 
 Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact contact@aletheia-foundation.io immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back. 
 
