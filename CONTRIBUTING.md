@@ -68,7 +68,6 @@ Aletheia has several active repos, each with a distinct purpose:
 
 Inactive repos:
 * aletheia-node
-* js-ipfs-api
 
 Closed repos
 * js-ipfs-api
