@@ -64,12 +64,15 @@ Aletheia has several active repos, each with a distinct purpose:
 * [**whitepaper**](https://github.com/aletheia-foundation/whitepaper) - the whitepaper and old versions of it. See this repo for more detail about the vision for Aletheia.
 * [**aletheia-foundation.github.io**](https://github.com/aletheia-foundation/aletheia-foundation.github.io) - the source for our GitHub Pages website (powered by Jekyll).
 * [**logo**](https://github.com/aletheia-foundation/logo) - records of the initial logo design for posterity.
-* [**js-ipfs-api**](https://github.com/aletheia-foundation/js-ipfs-api) - our forked copy of js-ipfs-api. We'll merge all our bugfixes upstream to [ipfs/js-ipfs-api](https://github.com/ipfs/js-ipfs-api).
 * [**nodejs-testnet-faucet**](https://github.com/aletheia-foundation/nodejs-testnet-faucet) - faucet distribute our cyptographic control
-* [**truffle-contract**](https://github.com/aletheia-foundation/truffle-contract) - the framework used for Aletheia.
 
 Inactive repos:
 * aletheia-node
+* js-ipfs-api
+
+Closed repos
+* js-ipfs-api
+* truffle-contract
 
 #### Languages
 
