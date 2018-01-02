@@ -184,36 +184,36 @@ N/A
 
 ## Minutes from last meeting
 
-Composed of:
-* *Items discussed* from last month
+* Didn't go over
 
 ## Action items from last meeting
 
-Composed of:
-
-* Any *Action Items* from last month
+* Didn't go over
 
 ## Items discussed
 - Schedule for three months
-  - calls
-  - features
+  - set cadence for future calls UTC 8:00 Sundays
+  - Format for calls will be showcases
+  - agreed on timeline for Aletheia 1.0 and 2.0 features
 * ICO
-set up three month plan
-call set weekly UTC 8:00 showcase
-kade to email everyone
-kade Chris email
-Roo to speak to kolt about UI designs for all screens
-Kade to check on the 15th if consensys ahve gotten back to us
-Kade to chase up real article
-Kade to print banking documents
-Kade to email regarding ico
-Kade to look into aragon again
-Kade to read whitepaper and update
-expotentially capped reputation for community vote, levels
-prevent gaming of datasets reputation multiplier on peer review
-bitcoin transaction fee for submitting a paper
-craet etherpad and instructions for smart contracts
+* UI work is one of our priorities so the app is nicer to use
+* we want to source the first article that will be added to Aletheia
+* Kade actioning opening bank account
+* Different attack vectors for the smart contracts
+* Technicalities around submitting a paper
 
 ## Action Items
-
- * Kade to email everyone regarding the timing and structure of calls
+[] Roo to unpick the conflicting pull requests
+[] Roo to add smart contract notes to Etherpad
+[] Kade to email everyone regarding the plan for the next three months, timing and structure of calls
+[] Kade to check on the 15th if consensys ahve gotten back to us
+[] Roo to speak to kolt about UI designs for all screens
+[] Kade to source real article
+[] Kade to print banking documents, fill them in and post to Eru
+[] Kade to email district0x regarding ICO
+[] Kade to look into Aragon now we are almost ready
+[] Kade to read whitepaper and update
+[] Kade to dig up Etherpad post it in Slack
+[] Kade to add note about community vote levelling to Etherpad
+[] Kade to add note about dataset and methodology to the Etherpad
+[] Kade to add note about transaction fee/captures to the Etherpad
