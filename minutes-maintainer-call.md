@@ -175,3 +175,28 @@ N/A
 ## Items discussed
 
 ## Action Items
+
+## 2 Jan 2018
+
+## Attendees
+* Roo
+* Kade
+
+## Minutes from last meeting
+
+Composed of:
+* *Items discussed* from last month
+
+## Action items from last meeting
+
+Composed of:
+
+* Any *Action Items* from last month
+
+## Items discussed
+- Schedule for three months
+  - calls
+  - features
+* ICO
+
+## Action Items
