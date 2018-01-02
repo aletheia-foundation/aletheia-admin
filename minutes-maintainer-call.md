@@ -203,17 +203,17 @@ N/A
 * Technicalities around submitting a paper
 
 ## Action Items
-[] Roo to unpick the conflicting pull requests
-[] Roo to add smart contract notes to Etherpad
-[] Kade to email everyone regarding the plan for the next three months, timing and structure of calls
-[] Kade to check on the 15th if consensys ahve gotten back to us
-[] Roo to speak to kolt about UI designs for all screens
-[] Kade to source real article
-[] Kade to print banking documents, fill them in and post to Eru
-[] Kade to email district0x regarding ICO
-[] Kade to look into Aragon now we are almost ready
-[] Kade to read whitepaper and update
-[] Kade to dig up Etherpad post it in Slack
-[] Kade to add note about community vote levelling to Etherpad
-[] Kade to add note about dataset and methodology to the Etherpad
-[] Kade to add note about transaction fee/captures to the Etherpad
+* [ ] Roo to unpick the conflicting pull requests
+* [ ] Roo to add smart contract notes to Etherpad
+* [ ] Kade to email everyone regarding the plan for the next three months, timing and structure of calls
+* [ ] Kade to check on the 15th if consensys ahve gotten back to us
+* [ ] Roo to speak to kolt about UI designs for all screens
+* [ ] Kade to source real article
+* [ ] Kade to print banking documents, fill them in and post to Eru
+* [ ] Kade to email district0x regarding ICO
+* [ ] Kade to look into Aragon now we are almost ready
+* [ ] Kade to read whitepaper and update
+* [ ] Kade to dig up Etherpad post it in Slack
+* [ ] Kade to add note about community vote levelling to Etherpad
+* [ ] Kade to add note about dataset and methodology to the Etherpad
+* [ ] Kade to add note about transaction fee/captures to the Etherpad
