@@ -7,7 +7,7 @@ _**Publish research for free, access research for free.**_
 The Steering Committee is comprised of members from the global open access and technology communities:
 * We are currently accepting submissions for people to join the Steering Committee
 
-The duties of the Steering Committee will be as follows
+The duties of the Steering Committee will be as follows:
 * To look over the quarterly report submitted by the Aletheia maintainers to the Steering Committee
 * To advise the Aletheia community on the direction of the project
 * To meet with a cadence agreed upon by the Steering Committee to discuss Aletheia's progress
