@@ -38,14 +38,14 @@ None, first time meeting has been recorded
 The MVP project was cleaned up, added to, removed from and rescheduled.
 
 ## Action Items
-* [x] Kade to remove open leadership from the milestones, it's now done
-* [x] Kade to add in Lisa's events to milestones
-* [x] Kade to update contributing.md with repo descriptions
-* [x] Kade to update readme for app because there are some missing notes
-* [x] Kade to speak to Kolt about new issues assigned to him
-* [x] Kade to sanity check all issues to see if any need closing
-* [x] Kade to speak to Rob and Roo about a metadata call and/or a sidechain call
-* [x] Kade to change MVP miletone to end of the year. 
+- [x] Kade to remove open leadership from the milestones, it's now done
+- [x] Kade to add in Lisa's events to milestones
+- [x] Kade to update contributing.md with repo descriptions
+- [x] Kade to update readme for app because there are some missing notes
+- [x] Kade to speak to Kolt about new issues assigned to him
+- [x] Kade to sanity check all issues to see if any need closing
+- [x] Kade to speak to Rob and Roo about a metadata call and/or a sidechain call
+- [x] Kade to change MVP miletone to end of the year. 
 
 ## 23/08/2017
 
@@ -74,7 +74,7 @@ Call was specifically to discuss side chains and cost minimisation for running A
 
 ## Action Items
 
-* [ ] Rob to write the submission smart contract
+- [ ] Rob to write the submission smart contract
 
 ## 04/09/2017
 
@@ -96,8 +96,8 @@ N/A
 * Kade had questions around scaling, ran through with Roo
 
 ## Action Items
-* [x] Roo to get submissions to work
-* [x] Kade to write ConsenSys article
+- [x] Roo to get submissions to work
+- [x] Kade to write ConsenSys article
 
 ## 11/09/2017
 
@@ -121,9 +121,9 @@ N/A
 
 ## Action Items
 
-* [x] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
-* [x] Kade and Roo to research cryptoexchanges
-* [ ] Kade to start putting together a business plan for Aletheia Foundation
+- [x] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
+- [x] Kade and Roo to research cryptoexchanges
+- [ ] Kade to start putting together a business plan for Aletheia Foundation
 
 ## 18/09/2017
 
@@ -150,9 +150,9 @@ N/A
 
 ## Action Items
 
-* [x] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
-* [x] Kade and Roo to research cryptoexchanges
-* [ ] Kade to start putting together a business plan for Aletheia Foundation
+- [x] Kade and Roo to think about which Australian bank they want the Aletheia Foundation to bank with
+- [x] Kade and Roo to research cryptoexchanges
+- [ ] Kade to start putting together a business plan for Aletheia Foundation
 
 ## 16/10/2017
 
@@ -170,7 +170,7 @@ N/A
 * Was decided to put off September's community call until October as we have new volunteers starting
 
 ## Action items from last meeting
-* [ ] Kade to start putting together a business plan for Aletheia Foundation
+- [ ] Kade to start putting together a business plan for Aletheia Foundation
 
 ## Items discussed
 
@@ -203,17 +203,17 @@ N/A
 * Technicalities around submitting a paper
 
 ## Action Items
-* [ ] Roo to unpick the conflicting pull requests
-* [ ] Roo to add smart contract notes to Etherpad
-* [ ] Kade to email everyone regarding the plan for the next three months, timing and structure of calls
-* [ ] Kade to check on the 15th if consensys ahve gotten back to us
-* [ ] Roo to speak to kolt about UI designs for all screens
-* [ ] Kade to source real article
-* [ ] Kade to print banking documents, fill them in and post to Eru
-* [ ] Kade to email district0x regarding ICO
-* [ ] Kade to look into Aragon now we are almost ready
-* [ ] Kade to read whitepaper and update
-* [ ] Kade to dig up Etherpad post it in Slack
-* [ ] Kade to add note about community vote levelling to Etherpad
-* [ ] Kade to add note about dataset and methodology to the Etherpad
-* [ ] Kade to add note about transaction fee/captures to the Etherpad
+- [ ] Roo to unpick the conflicting pull requests
+- [ ] Roo to add smart contract notes to Etherpad
+- [ ] Kade to email everyone regarding the plan for the next three months, timing and structure of calls
+- [ ] Kade to check on the 15th if consensys ahve gotten back to us
+- [ ] Roo to speak to kolt about UI designs for all screens
+- [ ] Kade to source real article
+- [ ] Kade to print banking documents, fill them in and post to Eru
+- [ ] Kade to email district0x regarding ICO
+- [ ] Kade to look into Aragon now we are almost ready
+- [ ] Kade to read whitepaper and update
+- [ ] Kade to dig up Etherpad post it in Slack
+- [ ] Kade to add note about community vote levelling to Etherpad
+- [ ] Kade to add note about dataset and methodology to the Etherpad
+- [ ] Kade to add note about transaction fee/captures to the Etherpad
