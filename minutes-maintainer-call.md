@@ -198,5 +198,22 @@ Composed of:
   - calls
   - features
 * ICO
+set up three month plan
+call set weekly UTC 8:00 showcase
+kade to email everyone
+kade Chris email
+Roo to speak to kolt about UI designs for all screens
+Kade to check on the 15th if consensys ahve gotten back to us
+Kade to chase up real article
+Kade to print banking documents
+Kade to email regarding ico
+Kade to look into aragon again
+Kade to read whitepaper and update
+expotentially capped reputation for community vote, levels
+prevent gaming of datasets reputation multiplier on peer review
+bitcoin transaction fee for submitting a paper
+craet etherpad and instructions for smart contracts
 
 ## Action Items
+
+ * Kade to email everyone regarding the timing and structure of calls
