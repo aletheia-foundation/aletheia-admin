@@ -115,7 +115,10 @@ If you want to reach out to one of the founders individually:
 
 ## Are there other ways I can support without volunteering?
 
-Yes! You can support Aletheia by subscribing to [our Patreon](https://www.patreon.com/Aletheia_f)
+Yes! You can support Aletheia on these platforms:
+
+* [Patreon](https://www.patreon.com/Aletheia_f)
+* [Flattr]( flattr.com/@Aletheia)
 
 ## How is Aletheia licensed? Can I use the material and source code in these repos to make my own creation?
 
