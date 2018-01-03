@@ -213,7 +213,7 @@ N/A
 - [x] Kade to email district0x regarding ICO
 - [ ] Kade to look into Aragon now we are almost ready
 - [ ] Kade to read whitepaper and update
-- [ ] Kade to dig up Etherpad post it in Slack
+- [x] Kade to dig up Etherpad post it in Slack
 - [ ] Kade to add note about community vote levelling to Etherpad
 - [ ] Kade to add note about dataset and methodology to the Etherpad
 - [ ] Kade to add note about transaction fee/captures to the Etherpad
