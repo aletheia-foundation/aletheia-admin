@@ -209,7 +209,7 @@ N/A
 - [ ] Kade to check on the 15th if consensys ahve gotten back to us
 - [ ] Roo to speak to kolt about UI designs for all screens
 - [ ] Kade to source real article
-- [ ] Kade to print banking documents, fill them in and post to Eru
+- [ ] Kade to print banking documents, fill them in and post to Roo
 - [x] Kade to email district0x regarding ICO
 - [ ] Kade to look into Aragon now we are almost ready
 - [ ] Kade to read whitepaper and update
