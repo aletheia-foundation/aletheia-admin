@@ -127,15 +127,11 @@ Aletheia was founded on the principle that knowledge and software should be open
 Below is a list of our repositories and their licenses, you can check the LICENSE.md file in each repository for details:
 
 * [admin](https://github.com/aletheia-foundation/admin/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
-* [whitepaper](https://github.com/aletheia-foundation/whitepaper/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
-* logo will add
-* [aletheia-foundation.github.io](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
-* [aletheia-node](https://github.com/aletheia-foundation/aletheia-node/blob/master/LICENSE.md) GNU General Public License v3.0
 * [aletheia-app](https://github.com/aletheia-foundation/aletheia-app) GNU General Public License v3.0
-* [embark-framework](https://github.com/aletheia-foundation/embark-framework/blob/develop/LICENSE) MIT License
-* [js-ipfs-api](https://github.com/aletheia-foundation/js-ipfs-api/blob/master/LICENSE) MIT License
-* [truffle](https://github.com/aletheia-foundation/truffle-contract) we have checked with the Truffle team as there is no explicit license in the truffle repo, they confirm everything of theirs is offered under the MIT License
-* [eth-faucet](https://github.com/aletheia-foundation/eth-faucet) MIT License
+* [whitepaper](https://github.com/aletheia-foundation/whitepaper/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
+* [logo](https://github.com/aletheia-foundation/aletheia-logo) All Rights Reserved
+* [aletheia-foundation.github.io](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/LICENSE.md) Creative Commons Attribution Share Alike 4.0 license
+* [events-and-outreach](https://github.com/aletheia-foundation/aletheia-events-and-outreach) Creative Commons Attribution Share Alike 4.0 license
 
 ## Thank you
 
