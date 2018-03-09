@@ -15,8 +15,8 @@ The duties of the Steering Committee will be as follows:
 
 ## Steering Committee members
 
-Abigail Cabunoc Mayes - Practice Lead, Working Open at Mozilla
-Ellie Rennie - Associate Professor, School of Media and Communication at RMIT University
-Steve Reeves -  Professor, Department of Computer Science at University of Waikato
-Eoghan Ó Carragáin - Head of Research and Digital Services at Boole Library, University College Cork
-Angus Murray - Senior Associate & Trade Marks Attorney at Irish Bentley Lawyers
+* Abigail Cabunoc Mayes - Practice Lead, Working Open at Mozilla
+* Ellie Rennie - Associate Professor, School of Media and Communication at RMIT University
+* Steve Reeves -  Professor, Department of Computer Science at University of Waikato
+* Eoghan Ó Carragáin - Head of Research and Digital Services at Boole Library, University College Cork
+* Angus Murray - Senior Associate & Trade Marks Attorney at Irish Bentley Lawyers
