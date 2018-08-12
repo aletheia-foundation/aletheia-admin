@@ -89,7 +89,7 @@ However, do not feel that you are limited to these roles. We are open to any for
  How do I start?
 
 Below are some useful resources:
-* [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you fully formed idea of the vision and goals of Aletheia.
+* [Aletheia whitepaper](https://github.com/aletheia-foundation/whitepaper) - this will give you a fully formed idea of the vision and goals of Aletheia.
 * [Our Lean Canvas build plan](https://docs.google.com/presentation/d/1Joti0YzRRg9qDcwiIjfHtvckJNUCguQJol9K22GriFE/edit#slide=id.p) - the condensed version of our vision and goals.
 * [Code of Conduct](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md) - the Code of Conduct we expect all Aletheians to abide by.
 * [Contributor guidelines](https://github.com/aletheia-foundation/admin/blob/master/CONTRIBUTING.md) - if you're looking to contribute here are some guidelines and information about the structure of Aletheia to get you started.
