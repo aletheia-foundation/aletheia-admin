@@ -7,6 +7,7 @@ Thank you for checking out Aletheia.
 
 ## Table of Contents
 
+- [Aletheia is not an active project](#aletheia-is-not-an-active-project)
 - [What is Aletheia?](#first-things-first-what-is-aletheia)
 - [Why does this project exist?](#ok-so-why-does-this-project-exist)
 - [That's a terrible problem! How do we solve it?](#thats-a-terrible-problem-how-do-we-solve-it)
@@ -20,6 +21,9 @@ Thank you for checking out Aletheia.
 - [Are there other ways I can support without volunteering?](#are-there-other-ways-i-can-support-without-volunteering)
 - [How is Aletheia licensed?](#how-is-aletheia-licensed-can-i-use-the-material-and-source-code-in-these-repos-to-make-my-own-creation)
 
+## Aletheia is not an active project
+Note to anyone reading, Alethiea isn't an active project and isn't being maintained.
+
 ## First thing's first, what is Aletheia?
 
 In short, Aletheia is software for getting science published and into the hands of everyone, for free. It's a decentralised and distributed database used as a publishing platform for scientific research.
@@ -28,15 +32,9 @@ So, Aletheia is software. But software without people is nothing. To comprehensi
 
 For a more in depth explanation, Aletheia is an Ethereum Blockchain application utilising IPFS for decentralised storage that anyone can upload documents to, download documents from, that also handles the academic peer review process. The application runs on individual PCs, all forming part of the IPFS database. This gives us an open source platform that cannot be bought out by the large publishers (and any derivatives of the platform source code must also be open source) that should also be hard to take down due to database nodes being spread across the globe in multiple legal jurisdictions. Aletheia is designed to be a resilient platform run transparently by the community, not some black box corporation or editorial board, meaning all users can see the decisions Aletheia is making and have a stake in that decision making process if they so desire. By this nature, Aletheia is decentralised, it has no key person risk. Should the core group who invented Aletheia disappear Aletheia won't cease to exist, it will continue to be run by the community. The community moderates content through various mechanisms (peer review, reputation scores etc.,) to ensure quality of content.
 
-For those who would rather a visual explanation:
-
-[![Aletheia](http://img.youtube.com/vi/iO68UxMsoKM/0.jpg)](https://www.youtube.com/watch?v=iO68UxMsoKM)
-
 ## OK, so why does this project exist?
 
 A large percentage of scientific papers are published behind paywalls. That is to say, a huge segment of the world's population is cut off from scientific knowledge. Don't take our word for it. [Here](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a), [here](https://en.wikipedia.org/wiki/Elsevier#Criticism_and_controversies), [here](https://arstechnica.com/science/2008/11/elsevier-beyond-the-pale-of-scientific-respectability/) and [here](https://www.theguardian.com/science/2012/feb/02/academics-boycott-publisher-elsevier) are some links to get you started on the problem. Paywalls entrench economic privilege, lower global standards and stifle global innovation. Humanity as an entire race loses out, and that means you. You lose, no matter who you are.  
-
-If you want a good primer to the problems surrounding academic publishing and how technology can be applied to them, set aside two hours to watch [_The Internet's Own Boy: The Story of Aaron Swartz_](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy).
 
 ## That's a terrible problem! How do we solve it?
 
@@ -59,12 +57,6 @@ The community around Aletheia shares a common vision, to change the world. That 
 A faster rising middle class across the world coupled with more scientific breakthroughs leads us to a world we can scarcely imagine. The end of poverty, the halting of climate change, infinite renewable energy, unlocking the aging process, all of this is possible. The future lies before us, the founder's vision is *let's make sure we get there, faster.*
 
 Changing the world for you could be as simple as [preventing a loved one dying of cancer through an early detection test based on open access research](https://en.wikipedia.org/wiki/Jack_Andraka#Pancreatic_cancer_sensor), or it could be even bigger than the founder's vision. That's the beauty of it, the vision is yours, yours to share as part of a community looking to turn that personal vision into reality.
-
-## Is it all about science?
-
-No, there is more to it. Science is the area we feel Aletheia can make the largest impact as fast as possible, but it's clear a free distributed and decentralised database designed for resilience has a number of applications. One of the goals of Aletheia is to prove this technology works so we can get to those other applications. Along with science, Aletheia is about advancing decentralised technology, making it open source and bringing it to multiple industries.
-
-Another goal is to prove a new governance model. Aletheia is run by the community, its envisioned that the community with run clients that collectively form the Aletheia database, the community will vote on the contents of the database and what gets taken down. The community will propose, vote on a write new features of Aletheia. This notion of a group of people organising around a software platform that has no overarching governance structure is called a DAO, a [decentralised autonomous organisation](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization). DAOs already exist, but they aren't common currently. With Aletheia we want to prove that DAOs are viable and bring the idea of community governance to the mainstream.
 
 ## This sounds amazing! Can I join?
 
