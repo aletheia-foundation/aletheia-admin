@@ -48,6 +48,9 @@ To give you an idea of where we've come from, what ground we've already covered,
 
 * You can email the Aletheia maintainers on contact@aletheia-foundation.io to discuss your contribution
 
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
+
 * You can interact with other Aletheians in our [Slack channel](https://aletheiafoundation.slack.com). If other communication channels become popular we will look at setting those up as well. This is also the place to sing out for help if you need it!
 
 ### The basic structure of Aletheia
@@ -151,9 +154,15 @@ We also have labels corresponding with skillsets, so if you're looking for somet
 
 The maintainers of Aletheia can only take a best guess at the type of contributions you want to make, so we have created labels as best we can but if you don't see an issue that corresponds to your skillsets, do not fret. You can still look over the existing issues, but we would also suggest you email the maintainers on contact@aletheia-foundation.io and let us know we should accomodate your skillset by adding labels for those skills. This will ensure that those with simmilar skills coming after you have a smooth journey. Helping the next person is all part of community building!
 
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
+
 ### I have something I want to work on, what's the next step?
 
 Please email the maintainers on contact@aletheia-foundation.io, your email should be tended to within 24 hours in most instances. If you want something more immediate please join our [Slack](https://aletheiafoundation.slack.com/) channel to discuss your contribution with the maintainers and other Aletheians.
+
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
 
 Non techies, this is where you leave off, techies continue on!
 
@@ -205,6 +214,9 @@ It would be great if our software did exactly what we wanted, and it can, that's
 * **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may be planning to work on something similar.
 * **Read** the latest version of the [whitepaper](https://github.com/aletheia-foundation/whitepaper) first. This will align you with the project vision.
 * **Email** contact@aletheia-foundation.io to discuss your enhancement before you start. Aletheia has been designed to overcome problems in very particular ways, and we need to ensure the the enhancement meshes with the rest of Aletheia and isn't something already being worked on. We don't want your time and effort to go to waste. Down the track it is envisaged that the go/no go call for an enhancement will be made by the community in keeping with Aletheia's principles of decentralisation.
+
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
 
 ### Suggesting an enhancement
 
