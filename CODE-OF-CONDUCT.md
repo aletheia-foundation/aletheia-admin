@@ -5,6 +5,9 @@ _**Publish research for free, access research for free.**_
 # The Code of Conduct
 
 ## Contact: contact@aletheia-foundation.io 
+
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
 If you want to contact one of the maintainers individually: kademorton@protonmail.com / roo2@protonmail.com 
 
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic. 
@@ -21,12 +24,18 @@ We will exclude you from interaction if you insult, demean or harass anyone. Tha
 
 Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact contact@aletheia-foundation.io immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back. 
 
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
+
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome. 
 
 
 ## Moderation
 
 These are the policies for upholding our community’s standards of conduct. If you feel that a something needs moderation, please contact contact@aletheia-foundation.io 
+
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
 
 * Remarks that violate the Aletheia standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.) 
 * Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed. 
