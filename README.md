@@ -97,6 +97,9 @@ Currently Aletheians interact over [Slack](https://aletheiafoundation.slack.com)
 
 You can reach out to us on the below:
 * contact@aletheia-foundation.io
+
+> Contact update (11 October 2026): The Aletheia email address is no longer monitored. Please send all enquiries, feedback, and contribution offers to [kademorton@protonmail.com](mailto:kademorton@protonmail.com).
+
 * [Twitter](https://twitter.com/aletheia_f)
 * [Facebook](https://www.facebook.com/aletheiaf)
 
